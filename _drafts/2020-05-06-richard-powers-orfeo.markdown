@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Richard Powers, Orfeo"
+title: "Richard Powers, Orfeo 🎵"
 categories: "Books"
 tags: [Richard Powers, Books, Fiction]
 date: "2020-05-06"
