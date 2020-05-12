@@ -3,7 +3,7 @@ layout: post
 date: "2014-12-30"
 title: "On convictions, whereas to the strength of and belief in same"
 categories: Life Experiences
-tags: [Writing, Blog, South America]
+tags: [Writing, Blog, South America, Fourteen]
 ---
 
 Overlong reflection upon the past is one sure way to make yourself unhappy so I try to avoid it. Nevertheless it becomes unavoidable at this time of year, especially if, like me, you are somewhat prone to reflection. 

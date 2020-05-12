@@ -3,7 +3,7 @@ layout: post
 date: "2016-06-14"
 title: "Swaptastic Part 1"
 categories: Football
-tags: [Photos, Football, Fun]
+tags: [Photos, Football, Fun, Sixteen]
 ---
 
 ![Envelopes containing swaps that have arrived in the post in recent days.](/assets/images/other/StickersInThePost.jpg)

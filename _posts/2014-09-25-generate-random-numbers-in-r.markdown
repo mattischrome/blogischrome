@@ -3,7 +3,7 @@ layout: post
 date: "2014-09-25"
 title: "How to generate random numbers in R"
 categories: Mathematics
-tags: [Maths, Stats, R]
+tags: [Maths, Stats, R, Fourteen]
 ---
 
 This post deals with how to generate random numbers in R. It is good to know how to generate random numbers with a particular language or software package for at least one of the following three reasons:

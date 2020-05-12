@@ -3,7 +3,7 @@ layout: post
 date: "2010-12-03"
 title: "Understated Classics #6: Arbor Bona Arbor Mala by The Shamen"
 categories: Understated Classics
-tags: [Understated Classics, Music, The Shamen]
+tags: [Understated Classics, Music, The Shamen, Electronic, Ten]
 ---
 
 ## Background

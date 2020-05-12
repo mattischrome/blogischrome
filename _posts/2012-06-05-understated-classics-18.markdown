@@ -3,7 +3,7 @@ layout: post
 date: "2012-06-05"
 title: "Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz"
 categories: Understated Classics
-tags: [Understated Classics, Fabric, Music]
+tags: [Understated Classics, Fabric, Music, Twelve, Electronic]
 ---
 
 Say what? We’re allowing compilations now?

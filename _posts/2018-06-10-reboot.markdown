@@ -3,7 +3,7 @@ title: "Reboot"
 categories: Writing
 layout: post
 date: "2018-06-10"
-tags: [Writing, Ideas, Blogging]
+tags: [Writing, Ideas, Blogging, Eighteen]
 ---
 
 As much as I hate to write about writing, especially when I write so infrequently, I feel I need to reboot this blog. I wrote so few posts in recent months I considered giving up altogether.

@@ -3,7 +3,7 @@ layout: post
 date: "2016-05-17"
 title: "Paul McAuley, Something Coming Through"
 categories: Books
-tags: [Paul McAuley, Books, Science Fiction]
+tags: [Paul McAuley, Books, Science Fiction, Sixteen]
 ---
 "Something Coming Through" is a science fiction novel set in the near future. A few years after a brief nuclear war known as "The Spasm", an alien race known as the Jackaroo introduce themselves to humanity. The novel is funny, thoughtful, and politically charged. I found it to be a good read.
 

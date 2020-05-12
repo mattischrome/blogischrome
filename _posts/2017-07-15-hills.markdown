@@ -3,7 +3,7 @@ layout: post
 date: "2017-07-15"
 title: "Hills"
 categories: Ideas
-tags: [Ideas, Blogging]
+tags: [Ideas, Blogging, Seventeen]
 ---
 I'm a big fan of books. The way they transport you away to other places and so on. As repositories of knowledge and adventure they can't be beat. I can think of no better way out of an existential fix than reading.
 

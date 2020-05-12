@@ -3,7 +3,7 @@ layout: post
 date: "2012-06-30"
 title: "Album Digest, June 2012"
 categories: Music
-tags: [Music, Album Digest, June, Saint Etienne, Liars, Hot Chip]
+tags: [Music, Album Digest, June, Saint Etienne, Liars, Hot Chip, Twelve]
 ---
 
 Three fantastic albums for Album Digest June 2012:

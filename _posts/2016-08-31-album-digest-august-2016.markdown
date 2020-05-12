@@ -3,7 +3,7 @@ layout: post
 date: "2016-08-31"
 title: "Album Digest, August 2016"
 categories: Music
-tags: [Album Digest, August, Prins Thomas, Sarathy Korwar, Doomsquad, United Vibrations]
+tags: [Album Digest, August, Prins Thomas, Sarathy Korwar, Doomsquad, United Vibrations, Sixteen]
 ---
 
 As I mentioned in yesterday's post, I allowed Spotify to pick some new albums for me this month. It chose some noodly ambient techno, a captivating slice of World Jazz, a moody gothic hallucination, and a concept album about humans being rescued by aliens. All in all a pretty good job! Here is the list:

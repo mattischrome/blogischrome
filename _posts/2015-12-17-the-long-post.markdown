@@ -3,7 +3,7 @@ layout: post
 date: "2015-12-17"
 title: "The Long Post"
 categories: Writing
-tags: [Writing, Blogging]
+tags: [Writing, Blogging, Fifteen, Twenty]
 ---
 
 I am writing a long post that I will either publish as one long post (about five or six thousand words) or as about seven smaller ones each closer to the average post length of about eight hundred words. I have to get it out-of-the-way soon as my mind needs to focus on my health economics essay.

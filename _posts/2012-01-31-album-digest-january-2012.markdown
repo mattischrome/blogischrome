@@ -3,7 +3,7 @@ layout: post
 date: "2012-01-31"
 title: "Album Digest, January 2012"
 categories: Music
-tags: [Album Digest, January, Music, FOE, Leila, Diagrams, Pyramids, Horseback, Fabric, Pinch]
+tags: [Album Digest, January, Music, FOE, Leila, Diagrams, Pyramids, Horseback, Fabric, Pinch, Twelve]
 ---
 
 Five albums to see in the new year:

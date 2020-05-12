@@ -3,7 +3,7 @@ layout: post
 date: "2013-08-12"
 title: "Despicable Me 2: A Short Review"
 categories: Films
-tags: [Films, Animation]
+tags: [Films, Animation, Thirteen]
 ---
 
 It's so good that I paid to see it twice! There, that's the review done.

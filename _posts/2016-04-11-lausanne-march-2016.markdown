@@ -3,7 +3,7 @@ layout: post
 date: "2016-04-11"
 title: "Lausanne, Switzerland, March 2016"
 categories: Travel
-tags: [Travel, Europe, Switzerland, Photos]
+tags: [Travel, Europe, Switzerland, Photos, Sixteen]
 ---
 
 Just before Easter Ingrid and I went to Lausanne in Switzerland for a few days. It was a much-needed break and my first trip out of the UK since I got back from South America.

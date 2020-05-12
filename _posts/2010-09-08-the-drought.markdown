@@ -3,7 +3,7 @@ layout: post
 date: "2010-09-08"
 title: "J. G. Ballard, The Drought"
 categories: Books
-tags: [Books, J. G. Ballard, Science Fiction, Reading Projects]
+tags: [Books, J. G. Ballard, Science Fiction, Reading Projects, Ten]
 ---
 
 ## The world created by nature versus the world constructed by humans

@@ -3,7 +3,7 @@ layout: post
 date: "2013-06-22"
 title: "Man of Steel: A Short Review"
 categories: Films
-tags: [Films]
+tags: [Films, Thirteen, Black Hole Rules, Science Fiction]
 ---
 
 Today I went to see the new Superman reboot _Man of Steel_ with friends. I really enjoyed it, particularly the more reflective take on the superhero myth. Starting out with the fate of the planet Krypton, [_Man of Steel_](http://www.imdb.com/title/tt0770828/) approximately fuses the events of both the [first](http://www.imdb.com/title/tt0078346/?ref_=sr_2) [two](http://www.imdb.com/title/tt0081573/) original Superman movies. We get to see Superman's arrival and childhood on earth and then the arrival of Zod, a maniac bent on replacing the earth and everyone on it with a new race of Kryptonians.

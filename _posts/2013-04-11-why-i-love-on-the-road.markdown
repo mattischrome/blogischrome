@@ -3,7 +3,7 @@ layout: post
 date: "2013-04-11"
 title: "Why I Love On The Road"
 categories: Books
-tags: [Books, Beat Generation, Jack Kerouac]
+tags: [Books, Beat Generation, Jack Kerouac, Thirteen, Fiction, Films]
 ---
 
 I was fifteen when I first read ["On The Road"](http://www.goodreads.com/book/show/70401.On_the_Road) by [Jack Kerouac](http://en.wikipedia.org/wiki/Jack_Kerouac) and recently, after twice as much lifetime lived, I was able to watch [the film version directed by Walter Salles](http://www.imdb.com/title/tt0337692/).

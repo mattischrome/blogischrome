@@ -3,7 +3,7 @@ layout: post
 date: "2013-02-28"
 title: "Album Digest, February 2013"
 categories: Music
-tags: [Music, Album Digest, February, Darkstar, Foals, Daniel Hope, Apparat]
+tags: [Music, Album Digest, February, Darkstar, Foals, Daniel Hope, Apparat, Thirteen]
 ---
 
 Most Februaries are quite quiet when it comes to albums (though this was not the case [back in 2011](album-digest-february-2011)) and although only the Foals album is a major release, I was quite surprised to find myself with four decent albums to write about. They are:

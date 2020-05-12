@@ -3,7 +3,7 @@ layout: post
 date: "2015-07-05"
 title: "An Initial Comparison of Apple Music and Spotify"
 categories: Music
-tags: [Music, Software]
+tags: [Music, Software, Spotify, Apple Music, Fifteen]
 ---
 
 My [previous post about Apple Music](/why-apple-music-feels-like-a-fail/) was more a response to how it was presented at the WWDC Keynote rather than to the idea of Apple Music itself. I should have known better than to use that clickbait title. I knew I wasn't writing about the product, more the flatness of its introduction (despite the names on show). 

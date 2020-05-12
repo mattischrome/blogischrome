@@ -1,9 +1,9 @@
 ---
-title: "A Day in the Air"
+title: "A Day in the Air 🛫"
 layout: post
 date: "2018-02-19"
 categories: Travel
-tags: [Australia, Travel]
+tags: [Australia, Travel, Eighteen]
 ---
 
 ![The Plane](/assets/images/australia_1/australia_1_01.jpg)

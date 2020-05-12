@@ -3,7 +3,7 @@ title: "Changes"
 layout: post
 date: "2017-04-11"
 categories: Life Experiences
-tags: [Writing, Blogging, Software]
+tags: [Writing, Blogging, Software, Seventeen]
 ---
 ## Moving the blog to Jekyll (again, sort of)
 Et voila, my blog lives! In a new body ([Jekyll](https://jekyllrb.com)) and at [a new location]({{absolute.url}}).

@@ -3,7 +3,7 @@ title: "Top 10 Songs 2017"
 categories: Music
 layout: post
 date: "2017-12-29"
-tags: [Music, Lists]
+tags: [Music, Lists, Seventeen]
 ---
 
 ## 10. Rolling Blackouts CF "Julie's Place"

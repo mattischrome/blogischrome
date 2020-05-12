@@ -3,7 +3,7 @@ layout: post
 date: "2015-09-14"
 title: "South America, Part 11"
 categories: Travel
-tags: [South America, Bolivia, Photos]
+tags: [South America, Bolivia, Photos, Fifteen, Fourteen]
 ---
 
 ## La Paz to Potosi

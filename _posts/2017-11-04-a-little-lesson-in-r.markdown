@@ -3,7 +3,7 @@ title: "A Little Lesson in R"
 categories: Programming
 layout: post
 date: "2017-11-04"
-tags: [Programming, R]
+tags: [Programming, R, Seventeen]
 ---
 I had to compute an indicator this week. It had confidence intervals that relied on taking 100,000 samples from the indicator's approximate distribution. I had to repeat this over multiple GP practices and for twelve different demographic groups.
 

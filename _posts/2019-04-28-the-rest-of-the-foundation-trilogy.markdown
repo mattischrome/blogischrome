@@ -3,7 +3,7 @@ title: 'Isaac Asimov, Foundation and Empire, Second Foundation'
 layout: post
 date: '2019-04-28T21:30:15.426Z'
 categories: 'Books'
-tags: [Books, Science Fiction, Reading Projects, Isaac Asimov]
+tags: [Books, Science Fiction, Reading Projects, Isaac Asimov, Nineteen]
 ---
 
 I managed to read all of the foundation novels since I [wrote about the first one](/foundation). In this post, I’ll write about the next two, which covers the original trilogy of ‘novels’ created from the original short stories. I’ve tried to avoid spoilers.

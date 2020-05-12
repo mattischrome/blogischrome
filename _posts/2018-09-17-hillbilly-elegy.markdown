@@ -3,7 +3,7 @@ title: "J. D. Vance, Hillbilly Elegy"
 layout: post
 date: "2018-09-17"
 categories: Books
-tags: [Books, J. D. Vance, Non Fiction]
+tags: [Books, J. D. Vance, Non Fiction, Eighteen]
 ---
 
 ["Hillbilly Elegy"](https://www.goodreads.com/book/show/27161156-hillbilly-elegy) is the autobiography of JD Vance, a self-professed hillbilly made good who graduated from Yale Law School. I read it because reviews touted it as illustrating the economic conditions leading to Brexit and the implausible election of Donald Trump. As [I wrote in an earlier post](space-between-this-and-that), I'm keen to learn about why Brexit happened. However, I think this book fails to provide an explanation. 

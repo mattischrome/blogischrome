@@ -3,7 +3,7 @@ layout: post
 date: "2013-09-13"
 title: "Ellen Gallagher at Tate Modern"
 categories: Art
-tags: [Art, Tate Modern, Ellen Gallagher]
+tags: [Art, Tate Modern, Ellen Gallagher, Thirteen]
 ---
 
 Ellen Gallagher is an American artist and her "AxME" show recently finished at the Tate Modern. I went along a few weeks ago and have only now had a bit of time to write up my thoughts.

@@ -3,7 +3,7 @@ layout: post
 date: "2013-09-30"
 title: "Album Digest, September 2013"
 categories: Music
-tags: [Album Digest, September, Music, Arctic Monkeys, BT, Goldfrapp, Janelle Monae]
+tags: [Album Digest, September, Music, Arctic Monkeys, BT, Goldfrapp, Janelle Monae, Thirteen]
 ---
 
 A nice diverse selection of albums this month:

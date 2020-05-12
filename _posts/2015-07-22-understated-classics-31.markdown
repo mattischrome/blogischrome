@@ -3,7 +3,7 @@ layout: post
 date: "2015-07-22"
 title: "Understated Classics #31: The White Room by The KLF"
 categories: Understated Classics
-tags: [Understated Classics, Music, The KLF]
+tags: [Understated Classics, Music, The KLF, Fifteen, Pop, Electronic]
 ---
 
 This little masterpiece was released in 1991. I got my copy on cassette for Christmas that year, but by May in 1992 they'd already "retired" and split up.

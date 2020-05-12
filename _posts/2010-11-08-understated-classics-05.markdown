@@ -3,7 +3,7 @@ layout: post
 date: "2010-11-08"
 title: "Understated Classics #5: A Weekend In The City by Bloc Party"
 categories: Understated Classics
-tags: [Understated Classics, Bloc Party, Music]
+tags: [Understated Classics, Bloc Party, Music, Rock, Ten]
 ---
 
 ## A Weekend In The City: Background

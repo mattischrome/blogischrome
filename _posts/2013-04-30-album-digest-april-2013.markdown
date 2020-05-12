@@ -3,7 +3,7 @@ layout: post
 date: "2013-04-30"
 title: "Album Digest, April 2013"
 categories: Music
-tags: [Album Digest, April, Music, The Flaming Lips, Wire, James Blake, The Knife]
+tags: [Album Digest, April, Music, The Flaming Lips, Wire, James Blake, The Knife, Thirteen]
 ---
 
 Some great albums this month!

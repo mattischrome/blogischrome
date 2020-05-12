@@ -3,7 +3,7 @@ layout: post
 date: "2016-07-31"
 title: "Album Digest, July 2016"
 categories: Music
-tags: [Music, Album Digest, July, Bat For Lashes, The Avalanches, Aphex Twin, Beyond The Wizard's Sleeve, Islands]
+tags: [Music, Album Digest, July, Bat For Lashes, The Avalanches, Aphex Twin, Beyond The Wizard's Sleeve, Islands, Sixteen]
 ---
 
 Album Digest July 2016 consists of a bumper five albums, mainly because I couldn't work out which one to drop. I think they're all pretty good though it's great to hear new music from The Avalanches after all this time.

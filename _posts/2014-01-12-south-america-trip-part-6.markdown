@@ -3,7 +3,7 @@ layout: post
 date: "2014-01-12"
 title: "South America, Part 6"
 categories: Travel
-tags: [South America, Peru, Beach, Lima]
+tags: [South America, Peru, Beach, Lima, Thirteen, Fourteen]
 ---
 
 From Punta Sal we took a long driving down to Huanchaco, via a stop off at the Lord of Saipan museum. The lord of Saipan is a Moche mummy found dressed in all manner of gold and surrounded by artefacts and other sacrifices (including other humans and decapitated llamas). The tour took a while to get going (our guide was late) but the exhibition was so amazing (the pieces were painstakingly restored in Germany) that it was hugely enjoyable. The diorama at the end featuring moving animatronic waxworks of Moche people was extremely weird though.

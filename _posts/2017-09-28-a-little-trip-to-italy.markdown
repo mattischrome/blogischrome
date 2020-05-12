@@ -3,7 +3,7 @@ title: "A little trip to Italy"
 categories: Travel
 layout: post
 date: "2017-09-28"
-tags: [Travel, Europe, Italy, Photos]
+tags: [Travel, Europe, Italy, Photos, Seventeen]
 ---
 
 We bought a cheap package holiday in the British Airways Black Friday sale. The weekend spanned Ingrid's birthday, so it was ideal. £99 each for flights and a hotel, and we bagged a hire car quite cheaply too.

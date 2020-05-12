@@ -3,7 +3,7 @@ layout: post
 date: "2011-08-16"
 title: "Understated Classics #12: Look Sharp! by Roxette"
 categories: Understated Classics
-tags: [Understated Classics, Roxette, Music]
+tags: [Understated Classics, Roxette, Music, Pop, Eleven]
 ---
 
 ## Happy Birthday!

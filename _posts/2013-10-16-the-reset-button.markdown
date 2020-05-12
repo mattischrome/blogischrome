@@ -3,7 +3,7 @@ layout: post
 date: "2013-10-16"
 title: "The Reset Button"
 categories: Life Experiences
-tags: [Life Experiences, Self Improvement, Work]
+tags: [Life Experiences, Self Improvement, Work, Thirteen]
 ---
 
 ## Previously on...

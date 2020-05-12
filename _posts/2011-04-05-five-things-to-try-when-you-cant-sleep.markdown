@@ -3,7 +3,7 @@ layout: post
 date: "2011-04-05"
 title: "Five Things To Try When You Can't Sleep"
 categories: Ideas
-tags: [Ideas, Insomnia, Life Experiences, Self Improvement]
+tags: [Ideas, Insomnia, Life Experiences, Self Improvement, Eleven]
 ---
 
 Facebook is wonderful for keeping in touch but I’ve noticed that quite a few of my friends tend to use it to tell the world that they can’t sleep. Here’s some advice for you if you find yourself unable to sleep one night. I’ve often had to try these out myself! Note that these are just things that work for me and your mileage may vary, particularly if you are fortunate enough to have a partner next to you! You may need to appease them if you wriggle around too much.

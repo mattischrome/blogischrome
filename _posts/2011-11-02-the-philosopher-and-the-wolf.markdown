@@ -3,7 +3,7 @@ layout: post
 date: "2011-11-02"
 title: "Mark Rowlands, The Philosopher And The Wolf"
 categories: Books
-tags: [Books, Mark Rowlands, Non fiction]
+tags: [Books, Mark Rowlands, Non Fiction, Eleven]
 ---
 
 I saw that a friend had ‘liked’ this book on Facebook and reading about it on [amazon](http://www.amazon.co.uk/Philosopher-Wolf-Lessons-Death-Happiness/dp/1847081029/), I was curious enough to give it a go. It is the autobiography of the philosopher [Mark Rowlands](http://rowlands.philospot.com/), specifically the experiences and lessons learned from raising a wolf, Brenin, from cub to maturity and beyond.

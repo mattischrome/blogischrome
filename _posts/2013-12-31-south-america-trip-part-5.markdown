@@ -3,7 +3,7 @@ layout: post
 date: "2013-12-31"
 title: "South America, Part 5"
 categories: Travel
-tags: [South America, Ecuador, Peru, Beach]
+tags: [South America, Ecuador, Peru, Beach, Thirteen]
 ---
 
 After Cuenca we set off for the Peruvian border. One of the great advantages of having a UK passport in South America is that you don't need any visas. If you're Australian or Canadian it's a different story. Nevertheless we all got over the border with very little trouble (the third ever land border crossing of my life) apart from the bits where they seem to make you wait in a queue just for the sake of making you wait in a queue.

@@ -3,7 +3,7 @@ layout: post
 date: "2013-05-25"
 title: "Choucair At Tate Modern"
 categories: Art
-tags: [Art, Tate Modern, Saloua Raouda Choucair]
+tags: [Art, Tate Modern, Saloua Raouda Choucair, Thirteen]
 ---
 
 Yesterday I went to see the Saloua Raouda Choucair show at the Tate Modern. As it was quite small, I went to see [the Lichtenstein show](/lichtenstein-at-tate-modern/) again as well.

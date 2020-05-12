@@ -3,7 +3,7 @@ layout: post
 date: "2011-05-31"
 title: "Album Digest, May 2011"
 categories: Music
-tags: [Music, Album Digest, May, Kate Bush, Africa Hitech, Fleet Foxes, TV On The Radio]
+tags: [Music, Album Digest, May, Kate Bush, Africa Hitech, Fleet Foxes, TV On The Radio, Eleven]
 ---
 Four albums this month:
 

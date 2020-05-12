@@ -3,7 +3,7 @@ layout: post
 date: "2012-06-24"
 title: "CAN, The Lost Tapes"
 categories: Music
-tags: [Music, CAN]
+tags: [Music, CAN, Twelve, Box Set, Rock]
 ---
 
 This arrived on Monday and I thought I would give it a post of its own because at over 3 hours of music, I am unlikely to do more than dip into it before writing the album digest next week. It is a far bigger and more enjoyable artefact than I thought it was going to be, so it probably deserves special attention for that reason too.

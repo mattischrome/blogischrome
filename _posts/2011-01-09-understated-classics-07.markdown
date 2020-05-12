@@ -3,7 +3,7 @@ layout: post
 date: "2011-01-09"
 title: "Understated Classics #7: 100 Broken Windows by Idlewild"
 categories: Understated Classics
-tags: [Understated Classics, Idlewild]
+tags: [Understated Classics, Idlewild, Rock, Music, Eleven]
 ---
 
 Idewild are a solid band who have released four or five albums that I could consider for this series. I'm even in the sleeve credits of one: _Post-Electric Blues_, if you're asking.

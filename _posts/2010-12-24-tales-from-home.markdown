@@ -3,7 +3,7 @@ layout: post
 date: "2010-12-24"
 title: "Tales From Home"
 categories: Life Experiences
-tags: [Life Experiences, Christmas, Birds, Photos]
+tags: [Life Experiences, Christmas, Birds, Photos, Ten]
 ---
 
 ### A question of identity

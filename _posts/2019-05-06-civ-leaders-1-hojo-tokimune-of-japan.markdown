@@ -1,9 +1,9 @@
 ---
-title: 'Civ Leaders #1: Hojo Tokimune of Japan'
+title: 'Civ Leaders #1: Hojo Tokimune of Japan 🌊'
 layout: post
 date: '2019-05-06T19:14:48.264Z'
 categories: 'Civ'
-tags: [Fun, Civ]
+tags: [Fun, Civ, Nineteen]
 ---
 
 ## Civ ability

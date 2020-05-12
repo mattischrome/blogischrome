@@ -3,7 +3,7 @@ layout: post
 date: "2011-05-06"
 title: "Understated Classics #9: Tiger Bay by Saint Etienne"
 categories: Understated Classics
-tags: [Understated Classics, Saint Etienne, Music]
+tags: [Understated Classics, Saint Etienne, Music, Pop, Electronic, Eleven]
 ---
 
 ## Background

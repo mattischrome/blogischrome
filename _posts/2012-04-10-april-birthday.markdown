@@ -3,7 +3,7 @@ layout: post
 date: "2012-04-10"
 title: "Ted Hughes, April Birthday"
 categories: Poems
-tag: [Poem, Ted Hughes, April]
+tag: [Poem, Ted Hughes, April, Twelve, Birthday]
 ---
 
 When your birthday brings the world under your window  

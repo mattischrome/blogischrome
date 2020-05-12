@@ -3,7 +3,7 @@ layout: post
 date: "2011-01-24"
 title: "In Defence Of Tolerance"
 categories: Politics and Beliefs
-tags: [Politics, Tolerance, News]
+tags: [Politics, Tolerance, News, Eleven, Internet]
 ---
 
 I’ve found twitter to be a bit boring lately but today a perfect storm brew up and once again the Daily Mail and one of its odious columnists was at its centre. Melanie Phillips’ opinion piece was a perfectly constructed piece of trolling that implied that since the repeal of section 28, schools have been flooded with an influx of gay propaganda in subjects like maths, history and geography. Well I’m all for it, Alan Turing _was_ a genius brutally mistreated by his country despite turning the second world war in favour of the allies - that story is maths and history is combined. Meanwhile, if you can spice up geography a bit go for it. I am not sure what you would do, discuss routes for pride marches? After all, the subject is hideously out of date now that we all have google maps on our phones.
@@ -20,4 +20,4 @@ Meanwhile, central to this hissy fit of the Daily Mail columnist is the story ab
 
 Anyway, someone wrote their opinion in a paper I hate and I disagreed. Whoop-de-doo. It’s disappointing because you would think that they would prefer to be crowing about the glorious demolition job that our hateful government is perpetrating against the society that they hate and clearly have no stake in preserving. This is why I had to write this post, to say that I read it anyway and I disagree with it. I believe there are plenty of decent and tolerant people out there who agree with me. They can’t be allowed to feed on our good will and optimism and love for the sake of their hatred and fear and their lies.
 
-[Here is a link to the piece](http://istyosty.com/tmp/cache/88fc8b4882101bd82a14149dbbe752ac1a96a2cc.html#ixzz1BwxsZyYv) - if you use this, you won’t add to the hit count of their website and they won’t be able to claim to advertisers that their awful website gets your eyeballs.
+(NB: I originally linked to the post through a service that didn't influence the traffic numbers of the Daily Mail. As this service is now closed, I won't link to the Daily Mail website directly.)

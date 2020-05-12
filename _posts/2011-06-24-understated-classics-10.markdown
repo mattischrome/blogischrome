@@ -3,7 +3,7 @@ layout: post
 date: "2011-06-24"
 title: "Understated Classics #10: Tubular Bells II by Mike Oldfield"
 categories: Understated Classics
-tags: [Understated Classics, Mike Oldfield, Music]
+tags: [Understated Classics, Mike Oldfield, Music, Rock, Eleven]
 ---
 
 I admit that it was the artwork that got interested in Tubular Bells II. Trevor Key's wonderful icon of the twisted tubular bell is even more mysterious rendered in yellow and blue. It aroused my curiosity when I saw it one day in Woolworth's in Leigh Park back in 1992. The huge display must have been part of WEA's massive publicity drive for an album that represented huge potential for sales even though Mike Oldfield's stock had then been dwindling for a long time. At that point Oldfield had not made a good album since his soundtrack to the movie [_The Killing Fields_](http://www.imdb.com/title/tt0087553/) in 1985, the end of a hot streak (perhaps 1980's _QE2_ aside) that had lasted since the original _Tubular Bells_ back in 1973.

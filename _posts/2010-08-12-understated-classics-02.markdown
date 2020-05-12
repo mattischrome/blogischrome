@@ -3,7 +3,7 @@ layout: post
 date: "2010-08-12"
 title: "Understated Classics #2: Sinking by The Aloof"
 categories: Understated Classics
-tags: [Understated Classics, The Aloof, Music]
+tags: [Understated Classics, The Aloof, Music, Electronic, Ten]
 ---
 
 ## I discovered The Aloof while listening to the Top 40

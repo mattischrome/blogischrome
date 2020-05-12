@@ -3,7 +3,7 @@ layout: post
 date: "2012-08-15"
 title: "Understated Classics #19: The Dreaming by Kate Bush"
 categories: Understated Classics
-tags: [Understated Classics, Kate Bush, Music]
+tags: [Understated Classics, Kate Bush, Music, Twelve, Pop, Rock, Electronic]
 ---
 
 > “I see the people working and see it working for them.” (_Sat In Your Lap_)

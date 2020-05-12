@@ -3,7 +3,7 @@ layout: post
 date: "2011-07-12"
 title: "Why I Love The Jungle Book"
 categories: Films
-tags: [Lists, Films, The Jungle Book, Animation]
+tags: [Lists, Films, The Jungle Book, Animation, Eleven]
 ---
 
 Just as with the [understated classics](understated-classics) I want to set out my stall early on that good movies are good enough. Both [_Betty Blue_](why-i-love-betty-blue) and today’s choice _The Jungle Book_ are never going to win any sort of consensus prize for the best movies ever made but they are really good. They also have a personal history attached that makes them worth writing about.

@@ -1,9 +1,9 @@
 ---
-title: "Isaac Asimov, Foundation"
+title: "Isaac Asimov, Foundation 🚀"
 layout: post
 date: "2018-10-14"
 categories: Books
-tags: [Books, Reading Projects, Isaac Asimov, Science Fiction]
+tags: [Books, Reading Projects, Isaac Asimov, Science Fiction, Eighteen]
 ---
 For our [first anniversary](the-same-but-different) we decided to exhange books. What better way to [celebrate a paper anniversary](https://ideas.hallmark.com/articles/anniversary-ideas/anniversary-gifts-by-year/)? Ingrid bought me the entire Foundation saga, most of which were [reissued in fancy new paperback designs by Mike Topping](https://abcoverd.co.uk/archive/designers/topping-mike) in 2016. All save for 1993's [Forward The Foundation](https://www.reddit.com/r/books/comments/7lueju/asimovs_forward_the_foundation_published_in_2016/) that is, but Ingrid got me a copy anyway. Hence, here is a new series of blog posts!
 

@@ -3,7 +3,7 @@ layout: post
 date: "2012-05-31"
 title: "Album Digest, May 2012"
 categories: Music
-tags: [Music, Album Digest, May, Jack White, One Little Plane, Beach House, Oxia]
+tags: [Music, Album Digest, May, Jack White, One Little Plane, Beach House, Oxia, Twelve]
 ---
 
 Four albums for Album Digest May 2012:

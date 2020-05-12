@@ -1,9 +1,9 @@
 ---
-title: 'About the Album Digest'
+title: 'About the Album Digest 📀'
 layout: post
 date: '2019-04-30T20:13:37.819Z'
 categories: Music
-tags: [Album Digest, Music]
+tags: [Album Digest, Music, Nineteen]
 ---
 
 I haven't written one of my monthly album digests for over a year. The reasons mostly boil down to a lack of time and motivation but other factors include the changing way in which I listen to music. I bought more albums on vinyl and only a small proportion of those were recently released music. Meanwhile, the attractions of Spotify's release radar proved too great to resist: it is a very convenient way to consume new music.

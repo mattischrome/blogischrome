@@ -3,7 +3,7 @@ layout: post
 date: "2012-11-03"
 title: "Skyfall: A Short Review"
 categories: Films
-tags: [Films]
+tags: [Films, Twelve, James Bond]
 ---
 
 I went to see "Skyfall" last night and I really enjoyed it. I knew nothing about the plot, mostly because I had avoided all discussion of the plot with people who had already seen it and I even avoided reviews as so many these days seem to just rattle off plot points, instead of discussing what makes the movie any good. With that in mind I will obviously try not to give away any of the plot in this brief review.

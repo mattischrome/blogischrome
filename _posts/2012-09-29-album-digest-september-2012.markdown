@@ -3,7 +3,7 @@ layout: post
 date: "2012-09-29"
 title: "Album Digest, September 2012"
 categories: Music
-tags: [Music, Album Digest, September, Four Tet, The xx, Nelly Furtado, Grizzly Bear]
+tags: [Music, Album Digest, September, Four Tet, The xx, Nelly Furtado, Grizzly Bear, Twelve]
 ---
 
 I had a bit more time to listen to this month’s albums because I was on holiday for two weeks. I didn’t manage to write about them while on holiday though! In fact I bought and listened to a few more, but I will save them for next month. The albums I will discuss now (in order bought) are:

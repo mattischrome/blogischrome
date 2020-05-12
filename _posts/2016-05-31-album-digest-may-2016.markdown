@@ -3,7 +3,7 @@ layout: post
 date: "2016-05-31"
 title: "Album Digest, May 2016"
 categories: Music
-tags: [Music, Album Digest, May, Radiohead, Mark Pritchard, Brian Eno, Parquet Courts]
+tags: [Music, Album Digest, May, Radiohead, Mark Pritchard, Brian Eno, Parquet Courts, Sixteen]
 ---
 
 Album Digest May 2016 features the work of four bands or artists that I have reviewed in previous album digests. I also own (or will own) all of these albums on vinyl, so it's handy that I've recently bought myself a record player!

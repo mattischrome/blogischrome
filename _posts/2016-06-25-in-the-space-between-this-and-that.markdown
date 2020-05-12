@@ -3,7 +3,7 @@ layout: post
 date: "2016-06-25"
 title: "In the space between this and that"
 categories: Politics and Beliefs
-tags: [Politics, News]
+tags: [Politics, News, Sixteen]
 ---
 
 Britain voted to leave the EU this week. It made for an angry and confused Friday morning. I posted snippy comments on Facebook at a rate of about one every fifteen minutes. I also knew that there was nothing I could do. Even when you feel like Charlton Heston at the end of &quot;Planet of the Apes&quot;, you have to suck it up and accept that sometimes things don&#39;t go as you like.

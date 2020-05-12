@@ -3,7 +3,7 @@ layout: post
 date: "2012-02-28"
 title: "Album Digest, February 2012"
 categories: Music
-tags: [Music, Album Digest, February, Burial, John Talabot, Lilacs and Champagne, The 2 Bears]
+tags: [Music, Album Digest, February, Burial, John Talabot, Lilacs and Champagne, The 2 Bears, Twelve]
 ---
 
 One EP and three albums for Album Digest February 2012:

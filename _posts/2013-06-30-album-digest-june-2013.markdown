@@ -3,7 +3,7 @@ layout: post
 date: "2013-06-30"
 title: "Album Digest, June 2013"
 categories: Music
-tags: [Album Digest, June, Music, Boards Of Canada, Jon Hopkins]
+tags: [Album Digest, June, Music, Boards Of Canada, Jon Hopkins, Thirteen]
 ---
 
 Just two albums this month as I am still enjoying last month's albums so much (and I spent loads of time getting reacquainted with Boards Of Canada at the start of the month). I listened to a few more albums but not often enough to write loads about them so there is an "honourable mention" section at the end of the post that briefly discusses a few more albums.

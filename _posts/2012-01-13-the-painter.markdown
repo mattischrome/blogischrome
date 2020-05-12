@@ -3,7 +3,7 @@ layout: post
 date: "2012-01-13"
 title: "The Painter"
 categories: Short Fiction
-tags: [Ideas, Mathematical Modelling, Short Story]
+tags: [Ideas, Mathematical Modelling, Short Story, Twelve]
 ---
 
 Once upon a time there was a man who loved to paint. He studied the art and craft of painting for many years. He chose to invest his time and energy into creating the most realistic portraits that he could paint. For him the joy came not from completing the paintings but the process of recreating the real world with the strokes of his brush.

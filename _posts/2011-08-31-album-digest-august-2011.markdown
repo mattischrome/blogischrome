@@ -3,7 +3,7 @@ layout: post
 date: "2011-08-31"
 title: "Album Digest, August 2011"
 categories: Music
-tags: [Music, Album Digest, August, Biosphere, Ford and Lopatin, Gus Gus, Instramental, Jon Tajeda]
+tags: [Music, Album Digest, August, Biosphere, Ford and Lopatin, Gus Gus, Instramental, Jon Tajeda, Eleven]
 ---
 
 I bought a collection of electronic music this month. I mixed them all up in a smart playlist on iTunes, the smart aspect being to limit to tracks that had been played fewer than five then six then seven times etc. This made sure I was still listening to all the tracks equally often, despite the randomness.

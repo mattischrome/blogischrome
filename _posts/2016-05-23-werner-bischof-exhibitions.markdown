@@ -3,7 +3,7 @@ layout: post
 date: "2016-05-23"
 title: "Werner Bischof: Point of View and Helvetica"
 categories: Photography
-tags: [Switzerland, Photos, Werner Bischof]
+tags: [Switzerland, Photos, Werner Bischof, Sixteen]
 ---
 2016 marks the centenary of the birth of [Werner Bischof](http://www.magnumphotos.com/C.aspx?VP3=CMS3&amp;VF=MAGO31_9_VForm&amp;ERID=24KL534M5N), the talented Magnum photojournalist who died in Peru in 1954, aged 38. He travelled widely, making the most of an incredible talent for photography. After the second world war, this led him all over Europe to document its aftermath. As the cold war began, Bischof found himself documenting events further afield.
 

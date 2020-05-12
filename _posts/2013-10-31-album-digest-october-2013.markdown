@@ -3,7 +3,7 @@ layout: post
 date: "2013-10-31"
 title: "Album Digest, October 2013"
 categories: Music
-tags: [Album Digest, October, Music, Chvrches, Darkside, Four Tet, HAIM]
+tags: [Album Digest, October, Music, Chvrches, Darkside, Four Tet, HAIM, Thirteen]
 ---
 
 Four great albums this month for the last album digest in a while.

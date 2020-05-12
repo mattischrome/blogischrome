@@ -3,7 +3,7 @@ layout: post
 date: "2012-04-20"
 title: "Reading list, mid-April 2012"
 categories: Books
-tags: [Books, Photos, April, Lists]
+tags: [Books, Photos, April, Lists, Twelve]
 ---
 
 ![A hefty reading list that should keep me occupied into the summer.](/assets/images/other/April-2012-Bookstack.jpg)

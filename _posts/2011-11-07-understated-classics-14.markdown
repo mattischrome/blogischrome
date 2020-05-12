@@ -3,7 +3,7 @@ layout: post
 date: "2011-11-07"
 title: "Understated Classics #14: Clear by Bomb The Bass"
 categories: Understated Classics
-tags: [Understated Classics, Bomb The Bass, Music]
+tags: [Understated Classics, Bomb The Bass, Music, Electronic, Eleven]
 ---
 
 > I think it’s time to discuss your philosophy of drug use as it relates to artistic endeavour…

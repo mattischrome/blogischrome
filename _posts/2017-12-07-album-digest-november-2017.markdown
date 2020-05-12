@@ -3,7 +3,7 @@ title: "Album Digest, November 2017"
 categories: Music
 layout: post
 date: "2017-12-07"
-tags: [Album Digest, November, Music, 0110100 01010100, Four Tet, James Holden, Daniele Luppi, Parquet Courts, Karen O, Fever Ray]
+tags: [Album Digest, November, Music, 0110100 01010100, Four Tet, James Holden, Daniele Luppi, Parquet Courts, Karen O, Fever Ray, Seventeen]
 ---
 
 ## 00110100 01010100 "0181"

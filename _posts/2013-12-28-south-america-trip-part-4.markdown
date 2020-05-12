@@ -3,7 +3,7 @@ layout: post
 date: "2013-12-28"
 title: "South America, Part 4"
 categories: Travel
-tags: [South America, Ecuador]
+tags: [South America, Ecuador, Thirteen]
 ---
 
 After Baños, we set off for Cuenca, which is a town in the south of Ecuador. Being a long drive, the journey was broken up with our first excursion to some inca ruins, a large complex at Ingapirca with a sun temple. It was built on an earlier site that dated back to about the 9th century and the Inca then conquered the area and built on top of it, as they tended to while their empire was expanding out from Peru to the south in the 11th and 12th centuries.

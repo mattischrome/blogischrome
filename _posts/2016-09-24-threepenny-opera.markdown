@@ -3,7 +3,7 @@ layout: post
 date: "2016-09-24"
 title: "The Threepenny Opera"
 categories: Theatre
-tags: [Theatre, Brecht]
+tags: [Theatre, Brecht, Sixteen, London]
 ---
 
 A few weeks ago, Ingrid and I went to see The Threepenny Opera at the National Theatre.

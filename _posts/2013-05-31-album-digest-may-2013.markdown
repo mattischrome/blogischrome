@@ -3,7 +3,7 @@ layout: post
 date: "2013-05-31"
 title: "Album Digest, May 2013"
 categories: Music
-tags: [Album Digest, May, Music, Lilacs and Champagne, The Phoenix Foundation, The National, Vampire Weekend]
+tags: [Album Digest, May, Music, Lilacs and Champagne, The Phoenix Foundation, The National, Vampire Weekend, Thirteen]
 ---
 
 ## Lilacs & Champagne _Danish & Blue_

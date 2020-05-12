@@ -3,7 +3,7 @@ layout: post
 date: "2010-12-28"
 title: "Programming an UNO game"
 categories: Programming
-tags: [Programming, Projects, Games]
+tags: [Programming, Projects, Games, Ten, Fun]
 ---
 
 #### A new year, a new hobby

@@ -3,7 +3,7 @@ layout: post
 date: "2014-08-15"
 title: "Guardians of the Galaxy: A Short Review"
 categories: Films
-tags: [Films, Science Fiction]
+tags: [Films, Science Fiction, Fourteen, Lists]
 ---
 
 *Finally* saw Guardians of the Galaxy today. Here are fifteen observations about the film that may or may not constitute a short review.

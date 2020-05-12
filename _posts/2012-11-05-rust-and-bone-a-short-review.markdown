@@ -3,10 +3,10 @@ layout: post
 date: "2012-11-05"
 title: "Rust And Bone: A Short Review"
 categories: Films
-tags: [Films, French]
+tags: [Films, French, Marion Cotillard, Thriller, Twelve]
 ---
 
-So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years[^1].
+So, two short reviews in a row. I had the day off work and went to see “Rust And Bone” this afternooon. It’s the new film by Jacques Audiard, who directed “A Prophet” – one of my favourite films of the last five years.
 
 “Rust And Bone” is a love story about Ali, a sexually feckless security guard who is struggling to look after his young son on his own, and Stéphanie (played by second most beautiful woman in the world, Marion Cotillard), who is injured while working as a co-ordinator of killer whale displays at an ocenarium. Needless to say it is not a minor injury. The film is basically their love story. I don’t feel so much responsibility to hide plot details about this film because, to be frank, I could type out the whole plot here and it wouldn’t convey the reasons why it’s so great.
 
@@ -17,7 +17,3 @@ Unfortunately, it’s not a flawless movie. It runs out of steam at the end desp
 When I described the film to my housemate earlier this evening, I realised that so much of what I had seen had been geared to getting me to understand the characters and to feel for them. I had to describe convoluted cause and effect ripples through the plot as one person’s actions impacted on others. I was describing the characters (especially Ali) as though they were people that I knew (or at least had watched in a soap opera for a long time!) and it was quite disconcerting how far the film had got under my skin. It’s highly recommended.
 
 Finally, I also really enjoyed the soundtrack. The score was by Alexandre Desplat who also did “Moonrise Kingdom” and the soundtrack also includes Bon Iver and Lykke Li, along with a dance remix of “State Trooper” by Bruce Springsteen – something that I had long imagined myself.
-
----
-
-[^1]: I will certainly be digging out my DVD copy of “A Prophet” this weekend.

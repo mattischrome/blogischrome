@@ -3,7 +3,7 @@ layout: post
 date: "2016-10-10"
 title: "Heavyweight Podcast"
 categories: Podcasts
-tag: [Podcast, Ideas]
+tag: [Podcast, Ideas, Sixteen]
 ---
 
 [Heavyweight](https://gimletmedia.com/show/heavyweight/about/) is a podcast about “heavyweight” issues, in the sense of burdens on the soul, rather than the burning issues of the day. It’s presented by Jonathan Goldstein, who was the host of the WireTap podcast. Each week he helps someone resolve an issue from their past. These include resolving family feuds and understanding mid-life depression.

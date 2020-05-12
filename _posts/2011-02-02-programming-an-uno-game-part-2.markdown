@@ -3,7 +3,7 @@ layout: post
 date: "2011-02-02"
 title: "Programming an UNO game, part 2"
 categories: Programming
-tags: [Programming, Projects, Games]
+tags: [Programming, Projects, Games, Fun, Eleven]
 ---
 
 It turns out that programming the UNO game is not that complicated once you start designing the thing. This post will get the rules and game elements clear.

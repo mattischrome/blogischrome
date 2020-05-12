@@ -3,7 +3,7 @@ title: "Album Digest, December 2017"
 categories: Music
 layout: post
 date: "2017-12-27"
-tags: [Album Digest, December, Music, Bjork, Phoebe Bridgers, Watter, Neil Finn]
+tags: [Album Digest, December, Music, Bjork, Phoebe Bridgers, Watter, Neil Finn, Seventeen]
 ---
 
 ## Bjork *Utopia*

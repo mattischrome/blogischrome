@@ -3,7 +3,7 @@ layout: post
 date: "2014-05-27"
 title: "South America, Part 9"
 categories: Travel
-tags: [South America, Peru, Inca Trail, Machu Picchu, Christmas]
+tags: [South America, Peru, Inca Trail, Machu Picchu, Christmas, Fourteen, Thirteen]
 ---
 
 In a tour full of highlights, Christmas week of 2013 was nonetheless one of the greatest weeks of my life. I may have moaned, groaned, and got completely soaked, but it was worth it to see Machu Picchu in the sunshine.

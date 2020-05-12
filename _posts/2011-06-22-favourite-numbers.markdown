@@ -3,7 +3,7 @@ layout: post
 date: "2011-06-22"
 title: "Favourite Numbers"
 categories: Mathematics
-tags: [Fun, Maths]
+tags: [Fun, Maths, Eleven, Primes, Forty One]
 ---
 
 What’s your favourite number?

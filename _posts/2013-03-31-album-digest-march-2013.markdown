@@ -3,7 +3,7 @@ layout: post
 date: "2013-03-31"
 title: "Album Digest, March 2013"
 categories: Music
-tags: [Album Digest, March, Music, David Bowie]
+tags: [Album Digest, March, Music, David Bowie, Thirteen]
 ---
 
 Just the David Bowie album this month as it’s pretty much the only new music that I’ve listened to.

@@ -3,7 +3,7 @@ layout: post
 date: "2013-03-05"
 title: "A Work Of Art At The End Of My Road?"
 categories: Art
-tags: [Art, Laurie Spiegel, A Bigger Splash]
+tags: [Art, Laurie Spiegel, A Bigger Splash, Thirteen, Music, Electronic, Tate Modern]
 ---
 
 I have had a lot of ideas for posts swirling around in my head in recent days. This is because I have actually done quite a lot of cool things in that time, and because I have hung out with some great people who make me think, and because I always have a whole load of things bouncing around in there anyway - space junk of the mind. I was thinking about how to put together these thoughts I have been having about art and about stories and yes, about love too. It all kind of got muddled up and then I saw it.

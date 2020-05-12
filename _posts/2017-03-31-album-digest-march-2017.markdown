@@ -3,7 +3,7 @@ title: "Album Digest, March 2017"
 layout: post
 date: "2017-03-31"
 categories: Music
-tags: [Album Digest, March, Music, Blanck Mass, The Shins, Rolling Blackouts CF, JFDR]
+tags: [Album Digest, March, Music, Blanck Mass, The Shins, Rolling Blackouts CF, JFDR, Seventeen]
 ---
 
 ## Blanck Mass *World Eater* 

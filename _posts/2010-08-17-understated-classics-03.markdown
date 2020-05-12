@@ -3,7 +3,7 @@ layout: post
 date: "2010-08-17"
 title: "Understated Classics #3: The Circle & The Square by Red Box"
 categories: Understated Classics
-tags: [Understated Classics, Red Box, Music]
+tags: [Understated Classics, Red Box, Music, Pop, Ten]
 ---
 
 ## When is understated not understated?

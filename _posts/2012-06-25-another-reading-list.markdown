@@ -3,7 +3,7 @@ layout: post
 date: "2012-06-25"
 title: "Another Reading List"
 categories: Books
-tags: [Books, Lists, Photos, June]
+tags: [Books, Lists, Photos, June, Twelve]
 ---
 
 ![More books to add to the “University of life” course list](/assets/images/other/June-2012-Bookstack.jpg)

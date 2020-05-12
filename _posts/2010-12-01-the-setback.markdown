@@ -4,7 +4,7 @@ date: "2010-12-01"
 title: "The Setback"
 categories: Life Experiences
 exceprt: Sometimes things don't go as planned...
-tags: [Self Improvement, Life Experiences, Depression]
+tags: [Self Improvement, Life Experiences, Depression, Films, Ten]
 ---
 
 Since the run there has been a bit of a hiatus in this blog. I wrote about how running was making me feel better. In fact, I should have said more. I recently stopped taking the antidepressants that I had been taking for eighteen months. This has been my longest period taking such medication but the running made me feel sufficiently good to decide that I could stop taking them.

@@ -3,7 +3,7 @@ title: "Richard Powers, The Overstory 🌳"
 categories: Books
 layout: post
 date: "2018-10-30"
-tags: [Books, Richard Powers, Fiction]
+tags: [Books, Richard Powers, Fiction, Eighteen]
 ---
 "The Overstory" by Richard Powers piqued my interest among the novels shortlisted for the Booker Prize. And [once again](satin-island-tom-mccarthy-review) the book that interested me most did not win. One year I will succeed in my prediction!
 

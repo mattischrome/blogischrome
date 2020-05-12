@@ -3,7 +3,7 @@ layout: post
 date: "2012-11-27"
 title: "A Mountain Story"
 categories: Short Fiction
-tags: [Ideas, Mathematical Modelling, Short Story]
+tags: [Ideas, Mathematical Modelling, Short Story, Twelve]
 ---
 
 A cat reaches the top of a mountain after a long climb through the snow. He is cold from the bottom of his fur to the tips of his claws. He is sodden and wet, and we all know how much a cat hates to be wet.

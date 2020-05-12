@@ -3,7 +3,7 @@ layout: post
 date: "2013-12-02"
 title: "South America, Part 2"
 categories: Travel
-tags: [South America, Ecuador, Amazon]
+tags: [South America, Ecuador, Amazon, Thirteen]
 ---
 
 ### Otavalo

@@ -3,7 +3,7 @@ title: "Turkey and Sweet Potato Stew"
 categories: Food
 layout: post
 date: "2017-12-26"
-tags: [Recipe, Tomato Free]
+tags: [Recipe, Tomato Free, Seventeen, Food, Gluten Free]
 ---
 Here's a recipe to use up your turkey leftovers after Christmas.
 

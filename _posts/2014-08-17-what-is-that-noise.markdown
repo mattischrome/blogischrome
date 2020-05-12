@@ -3,7 +3,7 @@ layout: post
 date: "2014-08-17"
 title: "What IS That Noise?"
 categories: Ideas
-tags: [Ideas, Music, Biosphere]
+tags: [Ideas, Music, Biosphere, Fourteen, Electronic]
 ---
 
 I recently spruced up a post I wrote four years ago about [Biosphere’s wonderful album Substrata](/articles/uc4/). I added the following footnote about the difference between voice samples and found sound:

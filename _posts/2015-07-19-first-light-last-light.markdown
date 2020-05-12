@@ -3,7 +3,7 @@ layout: post
 date: "2015-07-19"
 title: "First Light, Last Light"
 categories: Ideas
-tags: [Ideas, Self Improvement]
+tags: [Ideas, Self Improvement, Fifteen, Philosophy]
 ---
 
 I often ponder whether the joys of waking up early are greater than those of staying up late. Empirical evidence seems to bear this out: all those people who get to work before you do, super-eager to get everything done. But then all the people walking under your windows late at night, drunk and laughing, they sound like they're having a whale of a time too.

@@ -3,7 +3,7 @@ layout: post
 date: "2016-06-29"
 title: "Swaptastic Part 2"
 categories: Football
-tags: [Football, Stats, Modelling, Programming, R]
+tags: [Football, Stats, Modelling, Programming, R, Sixteen]
 ---
 
 As a follow-up to my post about the [Euro 2016 Panini Stickers](/euro-2016-panini-stickers/), I've now completed the collection with [the help of an online swapping site](/swaptastic-part-1/) and by buying the last 39 stickers directly from Panini. I also managed to write a new simulator, this time with additional collectors involved.

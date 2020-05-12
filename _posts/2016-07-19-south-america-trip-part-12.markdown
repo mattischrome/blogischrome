@@ -3,7 +3,7 @@ layout: post
 date: "2016-07-19"
 title: "South America, Part 12"
 categories: Travel
-tags: [South America, Bolivia, Argentina, Chile, Photos]
+tags: [South America, Bolivia, Argentina, Chile, Photos, Sixteen, Fourteen]
 ---
 
 ## Uyuni to Tupiza

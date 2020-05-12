@@ -3,7 +3,7 @@ layout: post
 date: "2016-04-30"
 title: "Album Digest, April 2016"
 categories: Music
-tags: [Album Digest, April, Music, Pet Shop Boys, Underworld, Charlie Don't Surf, Leon Vynehall]
+tags: [Album Digest, April, Music, Pet Shop Boys, Underworld, Charlie Don't Surf, Leon Vynehall, Sixteen]
 ---
 
 This month's album digest is a mixture of comparisons. First we compare the fortunes of old hands Underworld to even older hands the Pet Shop Boys. After that I've found two dance albums, one that I liked and one that I didn't. I find it quite hard to write about dance music and so the comparison is quite useful. Sometimes it helps to work out why you like one thing and not another.
