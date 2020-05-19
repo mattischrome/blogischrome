@@ -197,31 +197,25 @@ task :deploy, :message do |t, args|
   if branch.nil? or branch.empty?
     raise "Please add a branch."
   else
-    Rake::Task[:build].invoke
     execute("git add .")
     execute("git commit -m \"#{message}\"")
     execute("git push origin #{branch}")
   end
 end
 
-# rake transfer
-desc "Transfer the site (remote server or a local git repo)"
-task :transfer do
-  command = CONFIG["transfer"]["command"]
-  source = CONFIG["transfer"]["source"]
-  destination = CONFIG["transfer"]["destination"]
-  settings = CONFIG["transfer"]["settings"]
-  if command.nil? or command.empty?
-    raise "Please choose a file transfer command."
-  elsif command == "robocopy"
-    Rake::Task[:build].invoke
-    execute("robocopy #{source} #{destination} #{settings}")
-    puts "Your site was transfered."
-  elsif command == "rsync"
-    Rake::Task[:build].invoke
-    execute("rsync #{settings} #{source} #{destination}")
-    puts "Your site was transfered."
+# rake spruce
+desc "Commit to GitHub without invoking Netlify CI (prepends [skip ci] to commit message)"
+task :spruce, :message do |t, args|
+  message = args[:message]
+  branch = CONFIG["git"]["branch"]
+  if message.nil? or message.empty?
+    raise "Please add a commit message."
+  end
+  if branch.nil? or branch.empty?
+    raise "Please add a branch."
   else
-    raise "#{command} isn't a valid file transfer command."
+    execute("git add .")
+    execute("git commit -m \"[skip ci] #{message}\"")
+    execute("git push origin #{branch}")
   end
 end

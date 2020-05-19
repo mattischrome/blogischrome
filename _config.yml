@@ -120,7 +120,7 @@ pagination:
 
 ############################################################
 
-# For rakefile - need to edit to have a skip ci style commit
+# Configuration for Rakefile
 post:
   template: _post.txt
   extension: markdown
@@ -130,8 +130,3 @@ page:
 editor: code
 git:
   branch: master
-transfer:
-  command: rsync
-  settings: -av
-  source: _site/
-  destination: ~/Git/username.github.com/
