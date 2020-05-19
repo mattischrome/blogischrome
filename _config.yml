@@ -1,6 +1,6 @@
 site: mattischrome
 url: https://mattischrome.com
-title: Mattischrome
+title: mattischrome
 description: Not making sense since forever
 twitter:
   username: mattischrome
@@ -20,6 +20,14 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
+  - .bundle
+  - vendor
+  - .github
+  - Gemfile
+  - Gemfile.lock
+  - netlify.toml
+  - Rakefile
+  - LICENSE.md
   
 compress_html:
   clippings: all
@@ -111,3 +119,19 @@ pagination:
   indexpage: 'index'
 
 ############################################################
+
+# For rakefile - need to edit to have a skip ci style commit
+post:
+  template: _post.txt
+  extension: markdown
+page:
+  template: _page.txt
+  extension: markdown
+editor: code
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/username.github.com/
