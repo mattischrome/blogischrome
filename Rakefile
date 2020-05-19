@@ -215,7 +215,7 @@ task :spruce, :message do |t, args|
     raise "Please add a branch."
   else
     execute("git add .")
-    execute("git commit -m \"[skip ci] #{message}\"")
+    execute("git commit -m \"[skip ci] #{message} 🧹\"")
     execute("git push origin #{branch}")
   end
 end
