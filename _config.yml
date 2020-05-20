@@ -122,10 +122,10 @@ pagination:
 
 # Configuration for Rakefile
 post:
-  template: _post.txt
+  template: _templates/_post.txt
   extension: markdown
 page:
-  template: _page.txt
+  template: _templates/_page.txt
   extension: markdown
 editor: code
 git:

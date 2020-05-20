@@ -3,7 +3,7 @@ title: 'Civ Leaders #3: Amanitore of Nubia 🏹'
 layout: post
 date: '2020-05-07'
 categories: 'Civ'
-tags: [Fun, Civ, Twenty]
+tags: [Fun, Civ, Twenty, Leaders]
 ---
 
 Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which is instructive in the revamp of the religion system that occurred a few patches into the base game. You can also play the scenario as Cleopatra for a different perspective.
