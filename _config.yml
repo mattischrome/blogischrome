@@ -28,6 +28,8 @@ exclude:
   - netlify.toml
   - Rakefile
   - LICENSE.md
+  - _drafts/.Ulysses-Group.plist
+  - _drafts/.Ulysses-Settings.plist
   
 compress_html:
   clippings: all
