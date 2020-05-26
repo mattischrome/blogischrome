@@ -1,6 +1,6 @@
 ---
 title: "Things to remember 💭"
-date: 2020-05-26 10:11:18
+date: 2020-05-26
 layout: post
 category: Ideas
 tags: [Ideas, Self Improvement, Depression, Twenty]

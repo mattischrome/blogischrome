@@ -21,13 +21,17 @@ The *Nubian Pyramid*, an improvement that unlocks with Masonry and must be built
 Amanitore has one unique unit, the *Pitati Archer*. It is stronger than a regular archer and has one extra movement point per turn. This can be a major advantage when waging early wars on desert terrain.
 
 ## Victory types and play style
+Religion is key here. If the map is covered in desert, you might not get the Desert Folklore pantheon, but Nubian pyramids can compensate. Her bonuses for mines mean pantheons like Religious Idols (add extra faith to your existing bonus) or God of Craftsmen (make mines on strategic resources great as well) are good backups. You can use the Feed The World follower belief and/or the Gurdwara religious building to produce food in desert cities. An early Exodus of the Evangelists golden age secured on building a Pitati Archer (research Aninmal Husbandry then Archery) and a Nubian Pyramid (research Mining then Masonry), should be possible. This combined with the Missionary Zeal enhancer belief should get your religion spread far and wide. Or you could take the Crusade enhancer belief and splat your near neighbours with Pitati archers after you've converted them.
 
+A strong religious start always helps later in the game.
 
 ## Possible problems
 
 
 ## What to expect if you're playing against an AI Amanitore
-He’s going to declare war on you sooner or later. He doesn’t like you if you’re not at war with your neighbours. He might be a pretty boy but stay safe: build pikemen.
+She gets a bit irate if you haven't built enough districts in your cities. Nubian pyramids help her expand into desert areas and I've noticed that she settles a lot of cities. She will also often use a Pitati Archer rush to conquer nearby city states, but rarely declares war on neighbouring civs. At higher AI levels, the difference between your ability to build districts and that of your fellow AI players will mean she will buddy up to them and starting narking on you.
+
+While a human player might use her abilities to place a bias on religion, the AI Aminatore rarely does this overtly. Expect a flurry of missionaries as is often the case with the AI, but late on she will prefer to use the Grand Maester's Chapel to pump out combat units. 
 
 ## Conclusion
-If you're rolling a new game and randomly get Amanitore as your leader, rejoice for you will have awesome archers. 
+If you're rolling a new game and randomly get Amanitore as your leader, rejoice for you will have awesome archers. Aim for an early religion and early golden ages, pump out the desert wonders and use your archers to back up your religious expansion.
