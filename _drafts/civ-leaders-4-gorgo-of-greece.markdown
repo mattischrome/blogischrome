@@ -1,21 +1,22 @@
 ---
-title: 'Civ Leaders #3: Amanitore of Nubia 🏹'
+title: "Civ Leaders #4: Gorgo of Greece"
+date: 2020-06-03
 layout: post
-date: '2020-05-27'
-categories: 'Civ'
-tags: [Fun, Civ, Twenty, Leaders]
+category: Civ
+tags: [Civ, Leaders, Fun, Twenty]
 ---
-
-Amanitore of Nubia is available in a base game DLC. She also has her own scenario “The Gifts of the Nile”, which like most scenarios has unique tech and civic trees. You need to assert your dominance over the Nile by building seven temples. The scenario combines faith and military tactics in a satisfying way and you can also play it as Cleopatra for a different perspective.
+Gorgo of one of two Greek leaders available in the Civ VI base game.
 
 ## Civ ability
-*Ta-Seti* +50% Production toward Ranged units. Note that this bonus does not apply fully with respect to archers because the Nubian unique archer (see below) costs more to produce. You can get around this by building Slingers and promoting them. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 Production. Mines over bonus and luxury resources provide +2 Gold.
+*Plato's Republic* One extra Wildcard policy slot in any government. This is amazing because diplomatic and wildcard slots only open up at Level 1 governments for most civilizations. And even when those civs get there, you're still going to have one extra slot. And because it's a wildcard slot, that's the most useful extra slot to have. It's essentially a free Forbidden City wonder about four eras before you can build the Forbidden city.
 
 ## Leader bonus
-*Kandake of Meroë* +20% Production towards all districts rising to +40% if there is a Nubian Pyramid adjacent to the City Center.
+*Thermopylae* Combat victories provide Culture equal to 50% of the Combat Strength of the defeated unit. This can be incredibly useful, to the extent that you can start harvesting barbarians for culture early on in the game. Culture gets you through the civics tree, which grants more cards for you to use in your extra wildcard slot. Culture also helps you to spread your borders, so you can grab extra hexes on the map without having to pay for them. 
 
-## Unique improvement
-The *Nubian Pyramid*, an improvement that unlocks with Masonry and must be built on Desert, Desert Hills or Desert Floodplains. It provides +1 Faith and receives additional yields from adjacent districts (e.g. +1 Science if adjacent to a Campus). It receives +1 Food if adjacent to a city center. Unlike some unique tile improvements, Nubian Pyramids can be built next to one another.
+## Unique district
+The *Acropolis*, a district unique to Greece that replaces the Theater Square district. It is cheaper to build and awards 1 Envoy when completed. It gets the same adjacency bonuses as the standard theatre square
+
++1  Culture bonus for adjacent City Center. +1 Culture bonus for each adjacent wonder and district. Can only be built on Hills.
 
 ## Unique unit
 Amanitore has one unique unit, the *Pitati Archer*. It is stronger than a regular archer and has one extra movement point per turn. This can be a major advantage when waging early wars on desert terrain. Extra movement means you can get on to a hill and fire, you can cross a river and fire, you can walk into woods and fire. The extra experience you get from *Ta-Seti* means that powerful promotions can come quickly too. It's quite easy to get them up to level 3, which can give them the zone of control of a melee unit and the ability to contribute to putting cities under seige.
@@ -40,7 +41,7 @@ As with Alexander, you have to take advantage of your bonuses early because othe
 
 If you don't get a religion, things will be much harder. Buildings like the Grand Master's Chapel and units like Rock Bands and Naturalists are not dependent on your having a religion, but come fairly late in the game. These should be used for consolidation rather than catch up, so don't rely on them to save you. I'll write in another post what to do if you don't manage to snag a religion.
 
-## What to expect if you're playing against an AI Amanitore
+## What to expect if you're playing against an AI Gorgo
 She gets a bit irate if you haven't built enough districts in your cities. Nubian pyramids help her expand into desert areas and I've noticed that she settles a lot of cities. She will also often use a Pitati Archer rush to conquer nearby city states, but rarely declares war on neighbouring civs. At higher AI levels, the difference between your ability to build districts and that of your fellow AI players will mean she will buddy up to them and starting narking on you.
 
 While a human player might use her abilities to place a bias on religion, the AI Aminatore rarely does this overtly. Expect a flurry of missionaries as is often the case with the AI, but late on she will prefer to use the Grand Master's Chapel to pump out combat units. 
