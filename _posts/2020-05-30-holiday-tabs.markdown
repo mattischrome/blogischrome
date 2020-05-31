@@ -5,7 +5,7 @@ layout: post
 category: Technology
 tags: [Links, Technology, Music, News, Ideas, Twenty]
 ---
-Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn't much to do but read, but I still find myself not good at finishing the articles I read. My phone has a lot of tabs open and has become a Rolodex of shame. This post is to confess my sins.
+Over the course of a week on holiday, I started reading many interesting articles. In lockdown there isn't much to do but read articles, but I still find myself not that good at finishing them. My phone has lots of tabs open and has become a Rolodex of shame. This post is to confess my sins.
 
 I'm trying to re-familiarise myself with Python. As with all modern software development, Python now seems atomised and hyper-complicated. As a result, this series of posts from Claudio Jolowitz was useful. He cuts through lots of the complications and explains why they are there. Someone should ask him to write a book.
 
