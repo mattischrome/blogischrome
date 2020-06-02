@@ -1,5 +1,5 @@
 ---
-title: "Sprucing up the blog 🌲"
+title: "Sprucing up the Blog 🌲"
 date: 2020-06-01
 layout: post
 category: Writing
@@ -62,3 +62,5 @@ My last modification was to find a [boilerplate Rakefile](https://github.com/gum
 In future I will add another task to the Rakefile that runs the Python code that generates the connections between posts, as mentioned above.
 
 If you're using MacOS, I have one final tip about using Rake and zsh together. Add `alias rake="noglob bundle exec rake"` to your `.zshrc` file, as it will help you supply arguments to your various rake tasks. It took me the best part of an afternoon to figure this out, so hopefully this will save you some time.
+
+Finally, there are still some things to do. As well as the Python script for better related posts, there are issues with the search. It works in devlopment, but not when the site is deployed on Netlify. I'd also like to add comments but not using services like Disqus that always seem to insert spammy chum links into your posts.
