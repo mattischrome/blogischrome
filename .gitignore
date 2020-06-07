@@ -8,3 +8,4 @@ Gemfile.lock
 .git
 vendor/bundle/*
 _site
+_drafts
