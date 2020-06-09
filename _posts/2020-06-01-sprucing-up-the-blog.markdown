@@ -17,7 +17,7 @@ Next, I really wanted each post to have a set of links to other relevant posts o
 
 To ensure each post has suggestions for further reading that are approximately contemporaneous, I've tagged each post with the year it was written. In the case of some of my travel posts, I also tagged them with the year the events occurred in. I also had to include code to handle the case where a post had no other posts in common. Here's my version of the code, which I saved to my post layout:
 
-```html
+```liquid
 {% raw %}
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  3 %}
@@ -61,6 +61,6 @@ My last modification was to find a [boilerplate Rakefile](https://github.com/gum
 
 In future I will add another task to the Rakefile that runs the Python code that generates the connections between posts, as mentioned above.
 
-If you're using MacOS, I have one final tip about using Rake and zsh together. Add `alias rake="noglob bundle exec rake"` to your `.zshrc` file, as it will help you supply arguments to your various rake tasks. It took me the best part of an afternoon to figure this out, so hopefully this will save you some time.
+If you're using MacOS, I have one final tip about using Rake and zsh together. Add `alias rake="noglob bundle exec rake"` to your `.zshrc` file, as it will help you supply arguments to your various rake tasks. It took me the best part of an afternoon to figure this out, so hopefully this will save you some time. Alternatively, if you use rake more frequently, you could install the [oh-my-zsh rake plugin](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/rake).
 
-Finally, there are still some things to do. As well as the Python script for better related posts, there are issues with the search. It works in devlopment, but not when the site is deployed on Netlify. I'd also like to add comments but not using services like Disqus that always seem to insert spammy chum links into your posts.
+Finally, there are still some things to do. As well as the Python script for better related posts, there are issues with the search. It works in devlopment, but not when the site is deployed on Netlify. While I probably use the search more than anyone, it might be worth getting an Algolia version working. I'd also like to add comments but not using services like Disqus that always seem to insert spammy chum links into your posts.
