@@ -1,5 +1,5 @@
 ---
-title: "Reboot"
+title: "Reboot 🥾"
 categories: Writing
 layout: post
 date: "2018-06-10"

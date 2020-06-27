@@ -1,5 +1,5 @@
 ---
-title: "A trip to Iceland. Part 1: Reykjavík."
+title: "A trip to Iceland. Part 1: Reykjavík. 🇮🇸"
 categories: Travel
 layout: post
 date: "2017-10-04"

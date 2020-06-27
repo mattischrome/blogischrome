@@ -1,5 +1,5 @@
 ---
-title: "Album Digest, November 2017"
+title: "Album Digest, November 2017 📀"
 categories: Music
 layout: post
 date: "2017-12-07"

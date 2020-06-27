@@ -1,5 +1,5 @@
 ---
-title: "Personal ggplot tips and tweaks"
+title: "Personal ggplot tips and tweaks 👨‍💻"
 categories: Programming
 layout: post
 date: "2017-10-05"

@@ -1,5 +1,5 @@
 ---
-title: 'Ambitions Revisited'
+title: 'Ambitions Revisited 🤔'
 layout: post
 date: '2019-04-23T21:14:22.713Z'
 categories: Ideas

@@ -1,5 +1,5 @@
 ---
-title: "A little trip to Italy"
+title: "A little trip to Italy 🇮🇹"
 categories: Travel
 layout: post
 date: "2017-09-28"

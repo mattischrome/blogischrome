@@ -1,5 +1,5 @@
 ---
-title: "Suits Me"
+title: "Suits Me 👔"
 categories: Life Experiences
 layout: post
 date: "2017-11-03"

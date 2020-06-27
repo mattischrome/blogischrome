@@ -1,5 +1,5 @@
 ---
-title: "Understated Classics #36: The Coral by The Coral"
+title: "Understated Classics #36: The Coral by The Coral 🐠"
 categories: Understated Classics
 layout: post
 date: "2017-10-29"

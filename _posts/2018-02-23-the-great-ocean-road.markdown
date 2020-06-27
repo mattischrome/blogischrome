@@ -1,5 +1,5 @@
 ---
-title: "The Great Ocean Road"
+title: "The Great Ocean Road 🚙"
 layout: post
 date: "2018-02-23"
 categories: Travel

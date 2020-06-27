@@ -1,5 +1,5 @@
 ---
-title: "Eric Schlosser, Command and Control"
+title: "Eric Schlosser, Command and Control ☢️"
 categories: Books
 layout: post
 date: "2017-09-29"

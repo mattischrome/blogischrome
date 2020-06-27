@@ -1,5 +1,5 @@
 ---
-title: "Matt Haig, Reasons to Stay Alive"
+title: "Matt Haig, Reasons to Stay Alive 📚"
 categories: Books
 layout: post
 date: "2017-11-11"

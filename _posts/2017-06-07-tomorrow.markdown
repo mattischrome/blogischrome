@@ -1,5 +1,5 @@
 ---
-title: "Tomorrow"
+title: "Tomorrow 🌹"
 categories: Politics and Beliefs
 layout: post
 date: "2017-06-07"

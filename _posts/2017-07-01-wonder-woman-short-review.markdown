@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2017-07-01"
-title: "Wonder Woman: A Short Review"
+title: "Wonder Woman: A Short Review 🍿"
 categories: Films
 tags: [Films, Seventeen, Science Fiction]
 ---

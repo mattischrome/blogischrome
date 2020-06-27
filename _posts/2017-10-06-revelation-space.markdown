@@ -1,5 +1,5 @@
 ---
-title: "Alistair Reynolds, Revelation Space"
+title: "Alistair Reynolds, Revelation Space 📚"
 categories: Books
 layout: post
 date: "2017-10-06"

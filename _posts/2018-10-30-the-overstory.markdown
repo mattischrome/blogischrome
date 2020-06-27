@@ -1,5 +1,5 @@
 ---
-title: "Richard Powers, The Overstory"
+title: "Richard Powers, The Overstory 🌳"
 categories: Books
 layout: post
 date: "2018-10-30"

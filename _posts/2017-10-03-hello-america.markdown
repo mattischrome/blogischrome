@@ -1,5 +1,5 @@
 ---
-title: "J. G. Ballard, Hello America"
+title: "J. G. Ballard, Hello America 📚"
 categories: Books
 layout: post
 date: "2017-10-03"

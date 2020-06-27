@@ -1,5 +1,5 @@
 ---
-title: "Sprucing up the Blog"
+title: "Sprucing up the Blog 🌲"
 date: 2020-06-01
 layout: post
 category: Writing

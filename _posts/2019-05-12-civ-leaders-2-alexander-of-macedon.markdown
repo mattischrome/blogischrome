@@ -1,5 +1,5 @@
 ---
-title: 'Civ Leaders #2: Alexander of Macedon'
+title: 'Civ Leaders #2: Alexander of Macedon ⚔️'
 layout: post
 date: '2019-05-12T16:41:01.752Z'
 categories: 'Civ'

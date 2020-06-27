@@ -1,5 +1,5 @@
 ---
-title: 'Four Recipe Book Recommendations'
+title: 'Four Recipe Book Recommendations 😋'
 layout: post
 date: '2019-04-22T11:39:20.142Z'
 categories: 'Food'

@@ -1,5 +1,5 @@
 ---
-title: "Things to Remember"
+title: "Things to Remember 💭"
 date: 2020-05-26
 layout: post
 category: Ideas

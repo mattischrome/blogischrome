@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2017-06-16"
-title: "Create"
+title: "Create 🎨"
 categories: Writing
 tags: [Writing, Ideas, Seventeen]
 ---
