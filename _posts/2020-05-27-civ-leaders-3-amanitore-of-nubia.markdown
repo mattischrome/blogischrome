@@ -1,5 +1,5 @@
 ---
-title: 'Civ Leaders #3: Amanitore of Nubia 🏹'
+title: 'Civ Leaders #3: Amanitore of Nubia'
 layout: post
 date: '2020-05-27'
 categories: 'Civ'

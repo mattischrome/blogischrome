@@ -1,5 +1,5 @@
 ---
-title: "Am I caring for a naughty cat? 😸"
+title: "Am I caring for a naughty cat?"
 date: 2020-06-11
 layout: post
 category: Life Experiences

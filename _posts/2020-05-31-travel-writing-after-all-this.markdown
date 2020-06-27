@@ -1,5 +1,5 @@
 ---
-title: "Travel Writing After All This ✍️"
+title: "Travel Writing After All This"
 date: 2020-05-31
 layout: post
 category:

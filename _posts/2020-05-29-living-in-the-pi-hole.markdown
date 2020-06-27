@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living in the Pi Hole 🕳"
+title: "Living in the Pi Hole"
 categories: "Technology"
 tags: [Software, Ads, Economics, Twenty, Internet]
 date: "2020-05-29"

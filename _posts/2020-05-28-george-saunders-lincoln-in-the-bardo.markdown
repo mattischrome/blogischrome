@@ -1,5 +1,5 @@
 ---
-title: "George Saunders, Lincoln In The Bardo 👻"
+title: "George Saunders, Lincoln In The Bardo"
 date: 2020-05-28
 layout: post
 category: Books

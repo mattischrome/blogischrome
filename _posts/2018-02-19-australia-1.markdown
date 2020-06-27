@@ -1,5 +1,5 @@
 ---
-title: "A Day in the Air 🛫"
+title: "A Day in the Air"
 layout: post
 date: "2018-02-19"
 categories: Travel
