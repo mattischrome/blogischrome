@@ -1,5 +1,5 @@
 ---
-title: 'All the Civs'
+title: 'All the Civs 💁‍♂️'
 layout: post
 date: '2019-04-24T22:15:00.020Z'
 categories: 'Civ'
