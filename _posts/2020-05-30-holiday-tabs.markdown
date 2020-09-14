@@ -1,5 +1,5 @@
 ---
-title: "Holiday Tabs 🗂"
+title: "Holiday Tabs"
 date: 2020-05-30
 layout: post
 category: Technology

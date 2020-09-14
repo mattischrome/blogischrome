@@ -1,5 +1,5 @@
 ---
-title: 'About the Album Digest 📀'
+title: 'About the Album Digest'
 layout: post
 date: '2019-04-30T20:13:37.819Z'
 categories: Music

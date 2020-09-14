@@ -1,5 +1,5 @@
 ---
-title: "Strategy one 🃏"
+title: "Strategy one"
 date: 2020-07-07
 layout: post
 category: Writing

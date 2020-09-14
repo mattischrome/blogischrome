@@ -1,5 +1,5 @@
 ---
-title: "Any sugar? 🍬"
+title: "Any sugar?"
 layout: post
 date: "2018-02-02"
 categories: Life Experiences

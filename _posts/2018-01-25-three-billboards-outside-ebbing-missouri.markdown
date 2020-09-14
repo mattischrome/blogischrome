@@ -1,5 +1,5 @@
 ---
-title: "Three Billboards Outside Ebbing, Missouri 🍿"
+title: "Three Billboards Outside Ebbing, Missouri"
 categories: Films
 layout: post
 date: "2018-01-25"

@@ -1,5 +1,5 @@
 ---
-title: "Understated Classics #37: Lost Souls by Doves 🕊"
+title: "Understated Classics #37: Lost Souls by Doves"
 layout: post
 date: "2019-08-26"
 categories: Understated Classics

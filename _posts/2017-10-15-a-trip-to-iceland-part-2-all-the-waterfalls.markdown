@@ -1,5 +1,5 @@
 ---
-title: "A trip to Iceland. Part 2: Reykjavík to Flu∂ir. 🇮🇸"
+title: "A trip to Iceland. Part 2: Reykjavík to Flu∂ir."
 categories: Travel
 layout: post
 date: "2017-10-15"

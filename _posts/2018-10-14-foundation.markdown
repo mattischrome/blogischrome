@@ -1,5 +1,5 @@
 ---
-title: "Isaac Asimov, Foundation 🚀"
+title: "Isaac Asimov, Foundation"
 layout: post
 date: "2018-10-14"
 categories: Books

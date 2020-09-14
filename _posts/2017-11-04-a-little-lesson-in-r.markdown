@@ -1,5 +1,5 @@
 ---
-title: "A Little Lesson in R 👨‍💻"
+title: "A Little Lesson in R"
 categories: Programming
 layout: post
 date: "2017-11-04"

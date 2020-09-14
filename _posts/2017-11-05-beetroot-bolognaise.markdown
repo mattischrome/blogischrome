@@ -1,5 +1,5 @@
 ---
-title: "Beetroot Bolognaise 😋"
+title: "Beetroot Bolognaise"
 categories: Food
 layout: post
 date: "2017-11-05"

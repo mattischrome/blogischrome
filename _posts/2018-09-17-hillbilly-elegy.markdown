@@ -1,5 +1,5 @@
 ---
-title: "J. D. Vance, Hillbilly Elegy 📚"
+title: "J. D. Vance, Hillbilly Elegy"
 layout: post
 date: "2018-09-17"
 categories: Books

@@ -1,5 +1,5 @@
 ---
-title: "The same, but different 💍"
+title: "The same, but different"
 categories: Life Experiences
 layout: post
 date: "2017-10-01"

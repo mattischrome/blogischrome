@@ -1,5 +1,5 @@
 ---
-title: "Turkey and Sweet Potato Stew 😋"
+title: "Turkey and Sweet Potato Stew"
 categories: Food
 layout: post
 date: "2017-12-26"

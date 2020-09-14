@@ -1,5 +1,5 @@
 ---
-title: "Georgia O'Keeffe at Tate Modern 👩‍🎨"
+title: "Georgia O'Keeffe at Tate Modern"
 categories: Art
 layout: post
 date: "2017-10-08"

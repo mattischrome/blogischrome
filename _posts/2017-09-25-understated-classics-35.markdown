@@ -1,5 +1,5 @@
 ---
-title: "Understated Classics #35: Snivilisation by Orbital ⚛️"
+title: "Understated Classics #35: Snivilisation by Orbital"
 categories: Understated Classics
 layout: post
 date: "2017-09-25"

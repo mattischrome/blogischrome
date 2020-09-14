@@ -1,5 +1,5 @@
 ---
-title: "Sarah Ladipo Manyika, Like a Mule Bringing Ice Cream to the Sun 📚"
+title: "Sarah Ladipo Manyika, Like a Mule Bringing Ice Cream to the Sun"
 categories: Books
 layout: post
 date: "2017-10-30"

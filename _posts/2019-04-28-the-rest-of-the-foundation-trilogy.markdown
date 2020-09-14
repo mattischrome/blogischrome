@@ -1,5 +1,5 @@
 ---
-title: 'Isaac Asimov, Foundation and Empire, Second Foundation 📚'
+title: 'Isaac Asimov, Foundation and Empire, Second Foundation'
 layout: post
 date: '2019-04-28T21:30:15.426Z'
 categories: 'Books'
