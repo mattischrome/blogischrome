@@ -14,7 +14,7 @@ Writing this post came about from  frustration with blogging. Specifically the t
 
 Note that none of this really impacts the quality of the writing. I’m not claiming to be a good writer: in fact I spend so much time blogging or thinking about blogging because it is my writing practice. (I think I am getting better, but slowly).
 
-So if it doesn’t affect the quality of the writing, why even devote any thought to switching platforms. The answer is productive procrastination. I am terrible at this kind of thing. Should I do such-and-such an analysis now in Excel or R, or should I teach myself how to do it in R?
+So if it doesn’t affect the quality of the writing, why even devote any thought to switching platforms? The answer is productive procrastination. I am terrible at this kind of thing. Should I do such-and-such an analysis now in Excel or R, or should I teach myself how to do it in Julia or Python?
 
 One thing that I am slowly learning (even more slowly than how to write good) is that 90% of the time, the best tool for the job is the tool that will get the job done. Or at least the first draft of the job.
 
