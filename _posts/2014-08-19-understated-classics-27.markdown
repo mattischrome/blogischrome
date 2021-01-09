@@ -48,7 +48,7 @@ The album ends with “[The Late Greats](http://wilcoworld.net/#!/song/the-late-
 
 I love this album: its sentiments, its confusion and most of all some cracking guitar solos. As I said [when I wrote about that hat](whatever-happened-to-that-hat), I first encountered this album while in a foggy state in my life and its feints and dead ends, its heart and head, all served to draw me in. The ghost in the machine, the soul in the body. The long-lasting light.
 
----
+***
 
 Hero image is a [Wilco Easter Egg](https://flic.kr/p/e4oByj) based on the cover of "A Ghost is Born", [creative commons license](https://creativecommons.org/licenses/by-nc-nd/2.0/).
 

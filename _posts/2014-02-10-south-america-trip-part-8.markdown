@@ -60,7 +60,7 @@ Armed with instructions on what foods to (temporarily) avoid and the antibiotics
 
 In the evening we were introduced to Santi, our guide for the Inca trail. An amiable chap (as anyone who wants to get you up the equivalent of Snowdon in one morning has to be), he explained the trail to us in a way that made it all seem very doable. As I packed that night I finally[^5] felt excited about doing it!
 
----
+***
 
 ### Other notes
 
@@ -74,7 +74,7 @@ In the evening we were introduced to Santi, our guide for the Inca trail. An ami
 * When I [posted about being sick](grumble-grumble), Mia, a friend of mine from sixth form, posted on facebook about a place called Heidi's. Our waiter was amazing and the food was lovely (though not quite what I should have been eating at the time). I will spread Mia's recommendation onwards: if you're in Cusco look this place up - if only to try the happiness tea! (Waiter: "It's good for the mind and the body. If you have a soul it will definitely be good for that too.")
 * The "comfort" of a hotel/campsite has nothing to do with the quality of the beds or the pitches, and everything to do with the availability of hot water. (And the cleanliness of the toilets.)
 
----
+***
 
 [^1]: Because by this point, I was at peak alpaca: almost past looking at woolen products altogether.
 [^2]: It&rsquo;s soft but not a whole lot better than baby alpaca (also expensive), the cost seems to be a result of scarcity than wholly due to quality. 

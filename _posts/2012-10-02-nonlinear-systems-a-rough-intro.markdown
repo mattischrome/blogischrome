@@ -52,6 +52,6 @@ Some systems will have periodic stable solutions. Bifurcating parameters can als
 
 Nonlinear systems may have aperiodic solutions that appear to be random yet have stationary statistical properties (the mean and variance do not change with time). These are called chaotic solutions. Such solutions can be considered stable if they persist for all time.
 
----
+***
 
 That concludes the list and is pretty much all that can be said without providing proper mathematical definitions. The next post in this sequence will also be rather basic, a list of types of bifurcations illustrated by a few graphs. There will be equations galore and hopefully the graphs will be special too, rather than jpgs exported from R. After that, we’ll get into the good stuff.

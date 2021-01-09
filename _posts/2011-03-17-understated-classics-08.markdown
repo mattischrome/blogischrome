@@ -29,7 +29,7 @@ This fantastic album proves a number of things. First, John Peel really knew his
 
 To my mind, Dreadzone never again made as complete an album as this one. There have been some stand-out tracks though: _Earth Angel_ from their next album _Biological Radio_ and _American Dread_ from their most recent album _Eye On The Horizon_ spring to mind.
 
----
+***
 
 [^1]: Think of 'Americana' but English, anything that evokes bowling greens, radiant sunshine, birdsong and church spires. Though if you google it, you’ll find that Anglicana is the spanish word for Anglican.
 [^2]: The chorus of "Hello!" from the girls that torment Sir Galahad the Pure while he is held prisoner at Castle Anthrax.

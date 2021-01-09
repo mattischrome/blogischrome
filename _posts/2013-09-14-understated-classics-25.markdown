@@ -46,6 +46,6 @@ The final song "03.45: No Sleep" plays out simply and sparsely with its graceful
 
 So, there you have it "Long Gone Before Daylight": it's not quite the total bummer that I've made it out to be. If you're still smarting from a horrible incident in your love life, it might provide a bittersweet salve (though I'd try something much happier if you're having a really tough time of it). My version has two bonus tracks, the second "If There Is A Chance" is a lot happier and sweeter than what comes before so that will cheer you up I promise.
 
----
+***
 
 This is the last understated classic for quite a while. I'll resume again with number 26 in June next year. 

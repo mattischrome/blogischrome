@@ -19,7 +19,7 @@ Let’s step through doing each of these with R. Over time I will write this pos
 Ideally there would be one central random number generating function and you would pass it the distribution you need along with your parameters. R appears to have separate functions for each distribution, which is a bit annoying, but at least they are (fairly) sensibly named. Here’s a table:
 
 | **Distribution you need values from** | **Sample R command** |
-|---|---|
+|----|----|
 | Normal | `rnorm()` |
 | Uniform | `runif()` |
 | Exponential |  `rexp()` |

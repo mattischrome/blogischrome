@@ -26,6 +26,6 @@ The best thing Jim can do is to develop his current skills and adapt to new job 
 
 Jim is looking at a few years of not being able to get the latest iPad, cover himself in ridiculously ugly tattoos, or go out on the lash with his mates. He thinks this might not be a bad thing. His experiences of researching the evidence base for the most effective ways to sustainably increase his income has left him way of short term fixes to long term problems.
 
----
+***
 
 This post was inspired by this article by Paul Krugman: [The Triumph of Unthinking](http://www.nytimes.com/2015/05/08/opinion/paul-krugman-triumph-of-the-unthinking.html).

@@ -32,6 +32,4 @@ In crystal, Ballard seems to have found the ideal apocalyptic substance, especia
 
 As a reading experience, TCW is the best from my Ballard list that I have read so far. It is well paced and provided you can get through rather the clinical and mundane opening half, you’ll be rewarded with a whole pile of batshit craziness that gets rattled off in part two. Ballard takes us into the crystal world, where we can watch in wonder as with words he makes prisms of our skins, our forests and or minds.
 
----
-
 NB: I think I am going to take a bit of a Ballard break now. Next up is “Crash”. I have read it before, back when I was seventeen. I remember that I loved it (for salacious teenage reasons and with little knowledge back then of what the world is really like) but I am still a bit apprehensive about it. I may skip on to “Concrete Island”, I just haven’t quite made up my mind.

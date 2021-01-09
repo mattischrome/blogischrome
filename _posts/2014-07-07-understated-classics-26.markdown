@@ -34,6 +34,6 @@ This was an important album to me. It was one I would I put on if I were upset, 
 
 ["Come On Die Young" was reissued as a deluxe vinyl box set earlier this year](http://www.chemikal.co.uk/news/come-on-die-young-reissue-june-16th/). I bought a copy (despite being skint) but shipping was delayed because of a fault with the pressing. However I'm hoping that it will arrive this week. There's a stack of additional material attached to the re-release and once I have ploughed through that, I will write up an addendum to this post with more info on those tracks (and whether the remaster affects the original album in any way).
 
----
+***
 
 Thanks to Amy Dupcak for having [the text of the Iggy Pop quote on her blog](http://no-alternative-daily.blogspot.co.uk/2011/02/ill-tell-you-about-punk-rock.html).

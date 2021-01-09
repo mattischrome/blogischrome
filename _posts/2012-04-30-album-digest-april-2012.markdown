@@ -73,7 +73,7 @@ The pieces are quite simply constructed, most of the arrangements sound performe
 
 I have to mention how beautiful the string arrangements and (Tibetan?) percussion in _Atonement_ are, the wonderful dramatic ending to _Threshold_ and the sheer joy of _Apotheosis_. If you download only one track though, make it _I Was Born For This_ the vocal track that plays over the end credits of the game — it’s haunting, mystical, and would work well on any soundtrack. In conclusion, I’d say the soundtrack is worth £3.49 of your money (it certainly was mine) and that if you are having a stressful day it would probably help to soothe your soul almost as effectively as playing the game itself. It’s available from iTunes and from the playstation network. The video shows footage from the recording sessions as well as from the game itself.
 
----
+***
 
 ## Album Digest April 2012 - Notes
 

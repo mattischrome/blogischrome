@@ -54,7 +54,7 @@ At some points, I thought that it might be too aching, too self-aware, too self-
 
 At the end of the day, I enjoyed this album more than their other two but I still get the feeling while listening to it that it’s all too arch. I still can’t quite care about their songs enough to rave about them (except for “Say Something Loving”, which is great). However, I like the fact that the workings are shown and that, once again, The xx promise great things for the future.
 
----
+***
 
 [^1]:	Personally, I like to forget that oddities like Orchestral Tubular Bells, The Millennium Bell, and Tubular Bells 2003 ever existed. 
 

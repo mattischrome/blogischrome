@@ -38,7 +38,7 @@ I would defend Betty Blue from accusations of being too overtly sexy ([example](
 
 * This is the English wikipedia article about the book’s author, [Philippe Djian](http://en.wikipedia.org/wiki/Philippe_Djian).
 
----
+***
 
 [^1]:I don’t know why I have always assumed it is chili con carne, perhaps it is because it is about the only thing I would cook slowly on the hob like that, cookery naif that I am. Somehow if it were simply a lamb stew or a spag bol, it would seem too boring to drive home at such a speed for!
 

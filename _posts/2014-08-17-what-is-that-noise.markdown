@@ -27,7 +27,7 @@ The second reason is [Daniel Dennett’s great book “Intuition Pumps”](http:
 
 To come to some sort of conclusion and kind of answer my initial question, I think that found sound and vocal samples are genuinely different instruments on the Substrata album[^4] because your brain is interpreting them through these different stances. As to what happens when the language of the vocal sample is foreign to the listener, I don’t think you shift to a different stance but I do think it has a different effect, one that uses the cognitive dissonance between knowing something has meaning without knowing the actual meaning.
 
----
+***
 
 [^1]: Reification is the act of realising an idea - such as a building a chair after thinking of something to sit on. Hence “abstract reification” is something of an oxymoron, but one that works in this instance. It’s a fault in my vocabulary for sure: if only there were an adjective for the Proustian recollection of past events &#xe402;.
 [^2]: SOPHIE’s Lemonade perhaps?
