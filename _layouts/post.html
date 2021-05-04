@@ -31,7 +31,7 @@ layout: default
       {% assign headerUnprinted = FALSE %}
     {% endif %}
     <div>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </div>
     {% if maxRelatedCounter >= maxRelated %}
       {% break %}
@@ -58,12 +58,7 @@ layout: default
     {% endif %}
   </p>
 </div>
-  
 
-  
-  <!--<span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
-      <a class="post" href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
-  -->
 </section>
 
 
