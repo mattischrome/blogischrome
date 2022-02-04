@@ -1,5 +1,5 @@
 ---
-title: Understated Classics #39: Lifeforms by Future Sound of London
+title: 'Understated Classics #39: Lifeforms by Future Sound of London'
 date: 2022-02-04
 layout: post
 category:
