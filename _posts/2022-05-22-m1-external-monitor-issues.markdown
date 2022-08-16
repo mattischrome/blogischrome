@@ -1,12 +1,9 @@
 ---
 title: M1 External Monitor Issues
-date: '2022-05-22'
-tags: ['Technology','Hardware','M1','Monitor','MacOS','Apple']
-draft: false
-summary: A summary of an issue I've been having with my external monitor since moving to an M1 MacBook Pro
-images: []
+date: 2022-05-22
 layout: post
-canonicalUrl:
+category: Technology
+tags: [Technology, Hardware, M1, Monitor, MacOS,Apple,Twenty Two]
 ---
 
 Since moving to an M1 Mac, I've noticed some issues with my second screen that I do not experience with my previous Intel Mac or with my current work laptop, which is a Dell Intel PC running Windows 10.

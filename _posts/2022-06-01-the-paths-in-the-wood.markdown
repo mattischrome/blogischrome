@@ -1,12 +1,9 @@
 ---
 title: The paths in the wood
-date: '2022-06-01'
-tags: ['Writing','Blog','Thoughts','Life Experiences','Programming']
-draft: false
-summary: Some thoughts about whether to carry on with this blog
-images: []
+date: 2022-06-01
 layout: post
-canonicalUrl:
+category: Writing
+tags: [Writing,Blog,Thoughts,Life Experiences,Programming]
 ---
 
 I began writing this post after realising that it is the first of June and I might as well attempt once more to write a post every day. The speed with which the first of the month comes around, inviting another such promise, always amuses me. But at the moment I am not sure whether this blog will still exist come the end of the month. I think I want to start again in pastures new.
