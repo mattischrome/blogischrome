@@ -16,4 +16,4 @@ Take my reviews of the Foundation saga, for instance. Now those blog posts would
 
 Most forms of self-expression are discrete pieces of work. What's the blogging equivalent of pivoting from portraiture to sculpture? That's what I am trying to figure out. Not that I really strive for high art, just variety.
 
-Anyway, I'm at the proverbial fork in the road. Do I start a new blog? Or do I let this one ramble on? I'll let you know.   
+Anyway, I'm at the proverbial fork in the road. Do I start a new blog? Or do I let this one ramble on? I'll let you know.
