@@ -19,11 +19,11 @@ The scenario is much more prescient than that presented in “The Drowned World�
 To begin with, the takes place in a setting that might be familiar to us, a well-heeled suburb by a river. The church community, the zoo and the mansion belonging to Lomax all paint a picture of somewhere that would perhaps be idyllic in other circumstances. However, in the unrelenting sunlight and under the cloudless sky, with the soil turned to dust and the taps run dry, it is not the green-lawned and white-picked-fenced utopia we would like to imagine: it is instead abandoned and dusty and faded. Traditional roles have been skewed and everyone has a new agenda (p. 31):
 
 > "Johnstone drummed a fist on the wheel. 'That's not for us to decide! There are too many people now living out their own failures, that's the secret appeal of this drought. I was going to give the fellow some water Charles, but I wanted him to show some courage first.'
-> 'Of course' Ransom said noncommittally. Five minutes earlier he had been glad to see Johnstone, but he realized that the clergyman was imposing his own fantasies on the landscape, as he himself had done."
+> 'Of course' Ransom said noncommittally. Five minutes earlier he had been glad to see Johnstone, but he realised that the clergyman was imposing his own fantasies on the landscape, as he himself had done."
 
 Eventually, packs of vigilantes move in, calling themselves “fishers of men” who are press-ganging people into a trip inland to find a river that they are convinced exists. Ransom comes to realise that the city must be abandoned (p. 60):
 
-> "…he had realized that the role of the recluse and solitary, meditating on his past sins of omission like a hermit on the fringes of an abandoned city, would not be viable. The blighted landscape and its empty violence, its loss of time, would provide its own motives."
+> "…he had realised that the role of the recluse and solitary, meditating on his past sins of omission like a hermit on the fringes of an abandoned city, would not be viable. The blighted landscape and its empty violence, its loss of time, would provide its own motives."
 
 In advance of the characters’ journey to the beach. Ballard foreshadows a description of what awaits them there with a description of what has happened to the fish that lived in the aquarium at the zoo. The description is marvellous and really captures the horror of the situation. The contrast between the terrible scene described and the beauty of the language used is really quite clever (p. 66):
 
