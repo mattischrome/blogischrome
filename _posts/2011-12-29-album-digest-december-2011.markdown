@@ -10,7 +10,7 @@ Some rather brief pen pictures of this month’s albums. I’ve been a bit busy!
 
 ## Radio Slave - Collected Remixes
 
-Thud thud thud. This is pretty much how all Radio Slave remixes go. I really liked his fabric mix and borrowed a few tracks for [my second playlist](/2010/10/playlist-2-dancing-in-space/) a while back. Anyway, back to the thudding: it’s no bad thing, the remixes have a nice formula that works well for discovering new tracks like UNKLE’s _Burn My Shadow_ (Ian Astbury’s vocal is given plenty of room to shine) and K3’s _Play To Win_.
+Thud thud thud. This is pretty much how all Radio Slave remixes go. I really liked his fabric mix and borrowed a few tracks for a playlist I made called "Dancing In Space". Anyway, back to the thudding: it’s no bad thing, the remixes have a nice formula that works well for discovering new tracks like UNKLE’s _Burn My Shadow_ (Ian Astbury’s vocal is given plenty of room to shine) and K3’s _Play To Win_.
 
 On more abstract, instrumental tracks the blueprint can lead to an experience that is more robust than it is fun - but only after several such tracks in a row. The action is aimed squarely at the floor but the sequencing does break proceedings up with vocal tracks in such a way that you could probably work to it or something.
 
