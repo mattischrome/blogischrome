@@ -1,5 +1,5 @@
 ---
-title: "The Orb, Live at Brighton Concord 2 (28.10.22)"
+title: "The Orb, Live at Brighton Concord 2"
 date: 2022-10-29
 layout: post
 category: Music
