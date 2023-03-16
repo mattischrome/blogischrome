@@ -129,6 +129,6 @@ post:
 page:
   template: _templates/_page.txt
   extension: markdown
-editor: emacsclient
+editor: nvim 
 git:
   branch: master
