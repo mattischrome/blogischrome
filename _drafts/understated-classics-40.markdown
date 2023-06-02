@@ -22,6 +22,8 @@ Wow - I think I always had ambitions of making it to forty understated classics 
 | 11 | 1 |
 | 12 | 2 so far (including this post) |
 
+(Graph is at `~/Documents/Projects/R/BlogAssist/uc_nums_graph.R`)
+
 The reason I've chosen a selection of songs (a playlist?) rather than a specific album is because of the role that these songs have played in my life. There's a mixture sprinkled over several years and several singles, and while many of the Pet Shop Boys' albums are fine enough to stand as classics in their own right, they're usually either understated or classic, whereas I'd hope the particular songs I have chosen are more like both. 
 
 Terms like queerness and bisexuality are ones that I've had to learn to use. The two biggest problems with section 28 (and there are many many more) were the denial of that learning and the relentless othering that it enabled. 
