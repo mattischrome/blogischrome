@@ -8,6 +8,7 @@ tags:
 - Pop
 - Eleven
 title: 'Understated Classics #12: Look Sharp! by Roxette'
+slug: understated-classics-12
 ---
 
 ## Happy Birthday!

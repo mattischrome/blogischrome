@@ -8,6 +8,7 @@ tags:
 - Twelve
 - Electronic
 title: 'Understated Classics #18: Fabric 12 mixed by The Amalgamation Of Soundz'
+slug: understated-classics-18
 ---
 
 Say what? We’re allowing compilations now?

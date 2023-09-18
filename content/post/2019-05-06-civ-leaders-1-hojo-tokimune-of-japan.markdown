@@ -7,6 +7,7 @@ tags:
 - Nineteen
 - Leaders
 title: 'Civ Leaders #1: Hojo Tokimune of Japan'
+slug: civ-leaders-1
 ---
 
 ## Civ ability

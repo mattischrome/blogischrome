@@ -9,6 +9,7 @@ tags:
 - Twelve
 - Electronic
 title: 'Understated Classics #17: Nearly God by Nearly God (Tricky)'
+slug: understated-classics-17
 ---
 
 > Sit back and let it happen, / Let us take your time away.

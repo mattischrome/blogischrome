@@ -9,6 +9,7 @@ tags:
 - China
 - Twenty Three
 title: 'Civ Leaders #4: Qin Shi Huang (Mandate of Heaven) of China'
+slug: civ-leaders-4
 ---
 
 Well, it's been a while since I wrote [my last Civ VI leader post about Amanitore of Nubia](/civ-leaders-3-amanitore-of-nubia) and there's been a whole host of new leaders and personas added to the game since then. Among these the number of Chinese leaders has increased from two to five. Therefore it's probably a good time to start writing about one of them, and where better to start than the OG himself, Qin Shi Huang. The recent leader pass has created a new persona for him but today we shall focus on his original version, which is now referred to in-game as his "Mandate of Heaven" persona.

@@ -8,6 +8,7 @@ tags:
 - Electronic
 - Ten
 title: 'Understated Classics #2: Sinking by The Aloof'
+slug: understated-classics-2
 ---
 
 ## I discovered The Aloof while listening to the Top 40

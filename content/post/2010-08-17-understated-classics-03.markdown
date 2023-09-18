@@ -8,6 +8,7 @@ tags:
 - Pop
 - Ten
 title: 'Understated Classics #3: The Circle & The Square by Red Box'
+slug: understated-classics-3
 ---
 
 ## When is understated not understated?

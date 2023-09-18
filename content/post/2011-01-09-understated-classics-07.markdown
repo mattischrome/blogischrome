@@ -8,6 +8,7 @@ tags:
 - Music
 - Eleven
 title: 'Understated Classics #7: 100 Broken Windows by Idlewild'
+slug: understated-classics-7
 ---
 
 Idewild are a solid band who have released four or five albums that I could consider for this series. I'm even in the sleeve credits of one: _Post-Electric Blues_, if you're asking.

@@ -8,6 +8,7 @@ tags:
 - Electronic
 - Eleven
 title: 'Understated Classics #14: Clear by Bomb The Bass'
+slug: understated-classics-14
 ---
 
 > I think it’s time to discuss your philosophy of drug use as it relates to artistic endeavour…

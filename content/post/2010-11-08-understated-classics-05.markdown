@@ -8,6 +8,7 @@ tags:
 - Rock
 - Ten
 title: 'Understated Classics #5: A Weekend In The City by Bloc Party'
+slug: understated-classics-5
 ---
 
 ## A Weekend In The City: Background

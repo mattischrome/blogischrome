@@ -8,6 +8,7 @@ tags:
 - Rock
 - Thirteen
 title: 'Understated Classics #25: Long Gone Before Daylight by The Cardigans'
+slug: understated-classics-25
 ---
 
 The single biggest fact of life is that you are always going to be alone, you just might not realise it. Listening to The Cardigans' excellent 2003 "Long Gone Before Daylight" will help you see that all our relationships are essentially screwed -- but at least it sounds great while it does so.

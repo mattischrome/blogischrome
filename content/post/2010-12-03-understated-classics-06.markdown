@@ -8,6 +8,7 @@ tags:
 - Electronic
 - Ten
 title: 'Understated Classics #6: Arbor Bona Arbor Mala by The Shamen'
+slug: understated-classics-6
 ---
 
 ## Background

@@ -8,6 +8,7 @@ tags:
 - Electronic
 - Eleven
 title: 'Understated Classics #13: U.F.Orb by The Orb'
+slug: understated-classics-13
 ---
 
 **FUN FACT:** It was because of the artwork to this album that I obsessively scrawled onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome onourwayhome on my pencil case at school. I also had a very passable u.f.orb logo drawn on it too.

@@ -8,6 +8,7 @@ tags:
 - Electronic
 - Twenty One
 title: 'Understated Classics #38: Trance Nation (Various Artists)'
+slug: understated-classics-38
 ---
 I don't know about you, but lately I've been in need of some music that:
 

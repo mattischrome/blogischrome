@@ -9,3 +9,11 @@ Paginate = 12
   show_reading_time = true
   background_color_class = "bg-navy"
   text_color = "black"
+
+[permalinks]
+  [permalinks.page]
+    post = '/:slug/'
+  [permalinks.section]
+    post = '/'
+  [permalinks.term]
+    post = '/:slug/'

@@ -8,6 +8,7 @@ tags:
 - Electronic
 - Ten
 title: 'Understated Classics #4: Substrata by Biosphere'
+slug: understated-classics-4
 ---
 
 ![](/assets/images/other/UC4add1.jpg)

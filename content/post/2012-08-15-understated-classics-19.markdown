@@ -10,6 +10,7 @@ tags:
 - Rock
 - Electronic
 title: 'Understated Classics #19: The Dreaming by Kate Bush'
+slug: understated-classics-19
 ---
 
 > “I see the people working and see it working for them.” (_Sat In Your Lap_)
