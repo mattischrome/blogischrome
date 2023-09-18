@@ -13,7 +13,5 @@ Paginate = 12
 [permalinks]
   [permalinks.page]
     post = '/:slug/'
-  [permalinks.section]
-    post = '/'
   [permalinks.term]
     post = '/:slug/'
