@@ -18,7 +18,7 @@ Another year (nearly) over and so starting from tomorrow, I'm going to count dow
 3. To make the top ten, they need to have been played the most times. I admit that I don't have a precise measure of this, as I do still buy vinyl and about four of these albums will have had play counts missed by not being captured through a streaming service.
 4. Compilations are not included, whether they feature multiple artists or a retrospective of a single artist.
 
-And that's pretty much it. Have I done any prep work? Well no, not really. I made a preliminary list at the start of October and not only was the number album not out at the time (!) but I also had mistakenly included two albums from 2022. So yeah, this is not a pro operation. 😂
+And that's pretty much it. Have I done any prep work? Well no, not really. I made a preliminary list at the start of October and not only was the number one album not out at the time (!) but I also had mistakenly included two albums from 2022. So yeah, this is not a pro operation. 😂
 
 There have definitely been tracks I've loved that weren't on an album and there is one compilation that I've listened to enough that I should write about. So expect an honourable mentions post at some point too. Once we hit the "tweenmas" doldrums, I'll also try and put together a playlist of favourite songs from 2023 too.
 
