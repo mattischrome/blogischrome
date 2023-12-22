@@ -15,3 +15,6 @@ Paginate = 12
     post = '/:slug/'
   [permalinks.term]
     post = '/:slug/'
+
+[markup.goldmark.renderer]
+unsafe = true
