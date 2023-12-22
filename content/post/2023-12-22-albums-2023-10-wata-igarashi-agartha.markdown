@@ -10,6 +10,7 @@ tags:
  - Wata Igarashi
  - Electronic
 title: "2023 Albums of the Year #10: Wata Igarashi, Agartha"
+slug: 2023-albums-10-wata-igarashi-agartha
 ---
 ![](/assets/images/albums-23/wata-igarashi-agartha.jpg)
 
