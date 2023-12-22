@@ -12,7 +12,8 @@ tags:
 title: "2023 Albums of the Year #10: Wata Igarashi, Agartha"
 slug: 2023-albums-10-wata-igarashi-agartha
 ---
-![](/assets/images/albums-23/wata-igarashi-agartha.jpg)
+
+![Cover of Agartha by Wata Igarashi](/assets/images/albums-23/wata-igarashi-agartha.jpeg)
 
 Agartha is the debut album by Japanese electronic artist Wata Igarashi. I don't really know much about him, but I do know that I enjoy releases on the German record label Kompakt and I have really enjoyed Japanese techno in recent years. Over lockdown I discovered Haruomi Hosono's "Polyharmony" album and re-discovered the work of Shinichi Atobe, particularly their album "Love of Plastic". Both of those albums could be future understated classics and while both are by Japanese artists working in electronic music, there the comparison ends.
 
