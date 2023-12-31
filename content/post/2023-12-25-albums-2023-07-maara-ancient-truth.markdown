@@ -11,6 +11,7 @@ tags:
  - Electronic
 title: "2023 Albums of the Year #7: Maara, The Ancient Truth"
 slug: 2023-albums-07-maara-ancient-truth
+summary: "Because sometimes you can be relaxed by drum and bass. Sometimes."
 ---
 
 ![Cover of The Ancient Truth by Maara](/assets/images/albums-2023/maara-ancient-truth.jpeg)

@@ -11,6 +11,7 @@ tags:
  - Rock
 title: "2023 Albums of the Year #6: Grails, Anches en Maat"
 slug: 2023-albums-06-grails-anches-en-maat
+summary: "Grails' latest album gives you plenty to lose yourself in (for forty minutes at least)."
 ---
 
 ![Cover of Anches en Maat by Grails](/assets/images/albums-2023/grails-anches-en-maat.jpeg)

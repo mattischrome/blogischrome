@@ -12,6 +12,7 @@ tags:
  - Indie
 title: '2023 Albums of the Year #4: The National, "First Two Pages of Frankenstein" and "Laugh Track"'
 slug: 2023-albums-04-the-national-frankenstein-laugh-track
+summary: "Two new albums? And they're both better than the last one? And now with added Taylor Swift? You spoil us!"
 ---
 
 ![Cover of First Two Pages of Frankenstein by The National](/assets/images/albums-2023/the-national-first-two-pages.jpeg)

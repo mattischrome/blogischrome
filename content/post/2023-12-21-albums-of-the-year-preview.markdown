@@ -10,6 +10,7 @@ tags:
  - Blogging
  - Meta
 title: 2023 Albums of the Year Preview
+summary: "It might have been a good idea to write all the reviews prior to publishing this summary. You'll get ten eventually, I promise."
 ---
 Another year (nearly) over and so starting from tomorrow, I'm going to count down my top 10 albums of 2023. The rules are:
 
