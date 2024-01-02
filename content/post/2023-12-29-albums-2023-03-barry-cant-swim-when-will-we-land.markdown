@@ -10,7 +10,7 @@ tags:
  - Barry Can't Swim
  - Electronic
 title: "2023 Albums of the Year #3: Barry Can't Swim, When Will We Land?"
-slug: 2023-albums-03-barry-cant-swm-when-will-we-land
+slug: 2023-albums-03-barry-cant-swim-when-will-we-land
 summary: "Get up and go delivered in spades in this sunny happy dance album."
 ---
 
