@@ -8,7 +8,7 @@ tags:
 - Twenty Three
 - Twenty Four
 - Albums 
-title: "2023 Albums - honourable mentions"
+title: "2023 Albums: Honourable Mentions"
 slug: "2023-albums-honourable-mentions"
 summary: "The best of the rest, as it were"
 ---
@@ -21,7 +21,7 @@ Great album, recommended to me by Apple Music slinging the first track into my d
 
 ### Peter Gabriel, "i/o"
 
-These songs dribbled out one a month on the new moon. This gave me the idea of only saying yes on Doodle polls to dates coinciding with a new moon, mainly because Doodle polls bore me. After 21 years or so, any new music is gratefully received. "Four Kinds of Horses" is awesome. Almost all of the rest is excellent too, save for the two songs that sound like "Kiss That Frog" and "Blood of Eden".
+These songs dribbled out one a month on the new moon. This gave me the idea of only saying yes on Doodle polls to dates coinciding with a new moon, mainly because Doodle polls bore me. After 21 years or so, any new music is gratefully received. "Four Kinds of Horses" is awesome. Almost all of the rest is excellent too, save for the two songs that sound like "Kiss That Frog" and "Blood of Eden" respectively.
 
 ### Wilco, "Cousin"
 
@@ -54,3 +54,7 @@ I love CHAI. Didn't love this. Gave it a few goes and went back to their earlier
 ### Chris Coco and George Solar, "Island Vibrations"
 
 Look, I like chill out music ok?!?
+
+### Final thoughts
+
+There are still loads of albums that I've missed even on this list, albums that I've loved listening to or really enjoyed a couple of songs from. I still haven't listened to *any* of the new Blur album yet. Looking at the release lists for 2024, it's quite a slow start this year, so I still have plenty of time to catch up with a few albums that I've not given a lot of attention to.
