@@ -51,10 +51,10 @@ What would my dream job be? I'm well into my forties and I still don't know. I p
 
 ## Things I Watched
 
-Drops of God
-Foundation season 2
-Drive My Car
-Strange Way of Life
+* Drops of God
+* Foundation season 2
+* Drive My Car
+* Strange Way of Life
 
 ## Continued adventures in blogging
 
@@ -73,3 +73,5 @@ Finish things.
 Take more photos.
 
 Make more of a difference in the world. It doesn't have to be huge, it just has to be something.
+
+Do more coding.
