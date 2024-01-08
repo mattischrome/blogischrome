@@ -7,13 +7,13 @@ categories: Coding
 tags:
 - Coding
 - Twenty Four
-- BLogging
-- hugo
+- Blogging
+- Hugo
 - git
-summary: "What I did when I wanted to make the hugo branch of this branch main, without using a merge."
+summary: "What I did when I wanted to make the Hugo branch of this branch main, without using a merge."
 ---
 
-I wanted to make my main branch an archive branch and make my hugo branch the new branch. I wanted to do this without having to merge everything if possible.
+I wanted to make my main branch an archive branch and make my Hugo branch the new branch. I wanted to do this without having to merge everything if possible.
 
 Here's a diagram I drew on a post-it note:
 
@@ -25,4 +25,4 @@ To to do this I issued the following commands:
 git blah blah blah
 ```
 
-Why did I want to do this? It seems like git commits only count on GitHub if they are to master or main. I need my green blobs thankyou very much!
+Why did I want to do this? It seems like git commits only count on GitHub if they are to master or main. I need my green blobs thank you very much!
