@@ -1,0 +1,20 @@
+baseURL = 'https://mattischrome.com'
+languageCode = 'en-gb'
+title = 'mattischrome'
+theme = 'ananke'
+Paginate = 12
+
+[params]
+  description = "Not making sense since forever."
+  show_reading_time = true
+  background_color_class = "bg-navy"
+  text_color = "black"
+
+[permalinks]
+  [permalinks.page]
+    post = '/:slug/'
+  [permalinks.term]
+    post = '/:slug/'
+
+[markup.goldmark.renderer]
+unsafe = true
