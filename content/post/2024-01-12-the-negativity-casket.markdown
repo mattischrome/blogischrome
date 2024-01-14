@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "The Negativity Casket"
 summary: "Updates on my diary, which I have continued rather than starting this month. Sometimes you can't write because you haven't done the things you like to write about. Sometimes you can't write because you don't feel you can articulate things correctly. I write anyway most of the time."
 slug: the-negativity-casket
@@ -10,7 +9,7 @@ tags:
 - Emotions
 - Diary
 - Life Experiences
-date: 2024-01-09
+date: 2024-01-12
 ---
 One of the things that people tend to start around this time of year is a diary. They usually get filled for as long as your new year's resolutions last. 
 
