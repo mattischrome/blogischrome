@@ -27,4 +27,4 @@ Photographic evidence (of sofa progress, with a glimpse of my attempts at pivoti
 
 ![](/assets/images/2024/sofa-evidence.jpeg)
 
-Next steps: Staple the new fabric to the bottom of the sofa. I have a feeling thos will take a while. I may even have to do something more useful like hold the fabric tight. We may need actual audiobooks to play my existing role.
+Next steps: Staple the new fabric to the bottom of the sofa. I have a feeling this will take a while. I may even have to do something more useful like hold the fabric tight. We may need actual audiobooks to play my existing role.
