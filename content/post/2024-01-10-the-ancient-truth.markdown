@@ -7,7 +7,7 @@ tags:
 - Album Digest
 - Vinyl
 summary: "I did manage to find a copy on vinyl!"
-date: 2024-01-11T17:24:00Z
+date: 2024-01-10T17:24:00Z
 title: "Maara, The Ancient Truth (on vinyl)"
 slug: maara-the-ancient-truth-vinyl
 ---
