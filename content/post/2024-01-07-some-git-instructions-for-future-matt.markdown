@@ -1,6 +1,6 @@
 ---
 title: "Some Git Instructions for Future Matt"
-date: 2024-01-09T21:36:00Z
+date: 2024-01-07T21:36:00Z
 slug: git-instructions-for-future-matt
 categories: Coding
 tags:
